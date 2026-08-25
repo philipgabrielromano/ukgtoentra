@@ -2,7 +2,7 @@
 UKG Pro -> Entra ID HR-data sync orchestrator.
 
 For every confidently matched (UKG, Entra) pair, compute the attribute changes
-(jobTitle, department, officeLocation, ...) and the manager relationship change,
+(jobTitle, officeLocation, ...) and the manager relationship change,
 then optionally write them to Entra via Graph.
 
 Only AUTO_APPLY / SKIP matches are used as a basis for HR writes (i.e. we trust

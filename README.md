@@ -4,9 +4,12 @@ A safe, auditable, **one-direction** sync that reads HR data from **UKG Pro** an
 writes it into **Microsoft Entra ID** for the matching user:
 
 - **Job Title / Description** → Entra `jobTitle`
-- **Department** → Entra `department`
 - **Location** → Entra `officeLocation`
 - **Manager** → Entra manager *relationship* (`/manager/$ref`)
+
+Department sync is **disabled by default** (department is still used as a *matching*
+signal, just not written to Entra). To re-enable it, add
+`"department":"department"` to `UKG_TO_ENTRA_MAP` in the config.
 
 UKG Pro is the source of truth and is **never written to** (read-only). Identity/email
 is **not** synced by this tool.

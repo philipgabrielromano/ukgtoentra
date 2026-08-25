@@ -10,8 +10,9 @@ config (UKG_TO_ENTRA_MAP in .env, JSON) without touching code.
 
 Graph user attributes commonly targeted:
     jobTitle               <- UKG job title / job description
-    department             <- UKG department / org level
     officeLocation         <- UKG work location
+    department             <- UKG department / org level (disabled by default;
+                              re-enable via UKG_TO_ENTRA_MAP config)
     city / state / country <- UKG location components (optional)
     employeeId             <- UKG employee number (optional, useful as strong key)
     companyName            <- UKG legal entity / company (optional)
@@ -41,12 +42,12 @@ class MappedField:
 
 # Default UKG-attribute -> Graph-attribute mappings the user asked for:
 #   Job Description -> jobTitle
-#   Department      -> department
 #   Location        -> officeLocation
 #   (Manager handled separately as a relationship)
+# Department sync is DISABLED by default. To re-enable it, include
+# "department":"department" in UKG_TO_ENTRA_MAP in config.
 DEFAULT_MAP = [
     MappedField("jobTitle", "job_title", "Job Title / Description"),
-    MappedField("department", "department", "Department"),
     MappedField("officeLocation", "location", "Location / Office"),
 ]
 

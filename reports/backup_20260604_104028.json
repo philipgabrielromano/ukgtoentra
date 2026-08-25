@@ -1,0 +1,50 @@
+[
+  {
+    "entra_id": "071cc6b1-2a74-470f-9e7c-9b784ad17f67",
+    "name": "Jushonda Rowell",
+    "before": {
+      "department": "HR",
+      "officeLocation": "Middleburg",
+      "managerId": "aa71cc9b-f01a-49e2-a735-acdb74d0a843"
+    }
+  },
+  {
+    "entra_id": "b42c9a02-734a-4d91-9a7f-f03a56fc9b98",
+    "name": "James Black",
+    "before": {
+      "jobTitle": null,
+      "department": "Driver",
+      "officeLocation": null,
+      "managerId": "ed5bc117-3442-47fd-931a-1eda2cfdc2b3"
+    }
+  },
+  {
+    "entra_id": "e61113bb-faa7-45b8-afbe-2b059cb033ce",
+    "name": "Glenn Riggs",
+    "before": {
+      "jobTitle": null,
+      "department": "Driver",
+      "officeLocation": null,
+      "managerId": "ed5bc117-3442-47fd-931a-1eda2cfdc2b3"
+    }
+  },
+  {
+    "entra_id": "8cfd890d-d0f5-404c-9291-f3c18ed984e9",
+    "name": "Keesha Williams",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "70a90bbf-54ec-4571-a89b-920a6e95f07a",
+    "name": "Charles Ables",
+    "before": {
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  }
+]

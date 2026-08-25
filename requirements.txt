@@ -1,0 +1,6 @@
+requests>=2.31
+msal>=1.28
+python-dotenv>=1.0
+rapidfuzz>=3.6
+pandas>=2.0
+openpyxl>=3.1

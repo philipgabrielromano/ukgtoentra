@@ -1,0 +1,7292 @@
+[
+  {
+    "entra_id": "071cc6b1-2a74-470f-9e7c-9b784ad17f67",
+    "name": "Jushonda Rowell",
+    "before": {
+      "managerId": "aa71cc9b-f01a-49e2-a735-acdb74d0a843"
+    }
+  },
+  {
+    "entra_id": "b42c9a02-734a-4d91-9a7f-f03a56fc9b98",
+    "name": "James Black",
+    "before": {
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "e61113bb-faa7-45b8-afbe-2b059cb033ce",
+    "name": "Glenn Riggs",
+    "before": {
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "8cfd890d-d0f5-404c-9291-f3c18ed984e9",
+    "name": "Keesha Williams",
+    "before": {
+      "managerId": "f2756053-be39-44f5-b9d8-ca36d74cda38"
+    }
+  },
+  {
+    "entra_id": "70a90bbf-54ec-4571-a89b-920a6e95f07a",
+    "name": "Charles Ables",
+    "before": {
+      "managerId": "e3cd8996-b55c-420c-b0de-26732e6dd439"
+    }
+  },
+  {
+    "entra_id": "d920c73d-0557-4ecd-badd-b8fe80c447c9",
+    "name": "Tiffany Hills",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "70bb7438-07bb-41f8-bc97-229c64fe4a9f",
+    "name": "Jeffrey Lounds",
+    "before": {
+      "jobTitle": "ADC",
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "03638686-e9ae-4c73-bc8c-c3f969423b7e",
+    "name": "Deborah Smith",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "393c5434-fad6-4dc4-89b0-61fa65292fc6",
+    "name": "Andrea Donovan",
+    "before": {
+      "jobTitle": "Store Assistant Manager",
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7d127456-699b-43eb-bb26-091b72b8db04",
+    "name": "Marianne Sylvester",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d825a88c-f485-4c83-b101-09fb72e27efd",
+    "name": "Gail Lezak",
+    "before": {
+      "jobTitle": null,
+      "department": "Westlake Bookstore",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "76f9d23b-29f0-499e-9d66-5303641d8274",
+    "name": "Lawrence Price",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "fd52f732-037a-4a73-bdc2-6dc6c3d5ba10",
+    "name": "Jeffrey Christman",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "6a48730f-9595-4133-8ccc-40562ac8dec8",
+    "name": "Christian Schumaker",
+    "before": {
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "fe80ef69-c2dd-48e7-8ccc-15b3c0567c71",
+    "name": "Valerie McIntyre",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "54fd7555-eb19-4425-84d5-8cc8759e90a9",
+    "name": "Tiffany Mudrick",
+    "before": {
+      "jobTitle": "ASM",
+      "department": "Rt. 62",
+      "officeLocation": null,
+      "managerId": "d990e860-6552-4031-b027-d7a3a1882966"
+    }
+  },
+  {
+    "entra_id": "36012755-5784-4daa-9f3a-a2fb35752879",
+    "name": "Kathy Carver",
+    "before": {
+      "jobTitle": "AM",
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "a8b5b1d7-5a4c-4838-8f58-36e29b1cfef3"
+    }
+  },
+  {
+    "entra_id": "82c979a8-8bb4-47c0-844f-45ad2daed9d7",
+    "name": "Tim Ford",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a0390b3d-dadd-46ec-b76c-dc327724145d",
+    "name": "Michael Moore",
+    "before": {
+      "jobTitle": "New Philadelphia Manager",
+      "department": "New Philadelphia",
+      "officeLocation": null
+    }
+  },
+  {
+    "entra_id": "81a7382f-47d3-4684-81ce-5d806bcc26b9",
+    "name": "Angelia Law",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "6f77bc73-0b71-4200-ae8e-8b1b0c3c5067",
+    "name": "Douglas Simmons",
+    "before": {
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7004d235-766f-410a-b872-08439560b0ac",
+    "name": "Cynthia Carper",
+    "before": {
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "36012755-5784-4daa-9f3a-a2fb35752879"
+    }
+  },
+  {
+    "entra_id": "75e92435-e1f0-4265-8586-e3a1b07ffe50",
+    "name": "Harry Drake",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "bb492a6c-cd6a-4096-9465-8e830150c565",
+    "name": "Betty Tomblin",
+    "before": {
+      "jobTitle": null,
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "995a0c95-601c-45de-a859-1e945f679c78",
+    "name": "Paul Williams",
+    "before": {
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "e5ecaae9-3995-466b-876b-86a1d66394cf",
+    "name": "Darin Potprocky",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fedd720e-c8f0-42b2-a8bb-5d39009b3b8f",
+    "name": "Tammy Patchin",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "72122082-524f-459d-b71f-a2a63dc124a6",
+    "name": "Karla Miller",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "3fa0701d-674c-4b2c-96b2-07d04d364afd",
+    "name": "Patricia Davis",
+    "before": {
+      "jobTitle": "STL",
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "32e672ef-f0a4-44ec-826b-9f98ab82482d",
+    "name": "William Petersheim",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "54434a89-d40c-40bf-9880-e05347c4cf14",
+    "name": "Alice Cerinski",
+    "before": {
+      "jobTitle": null,
+      "department": "Westlake Bookstore",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b42dd990-0260-4004-8b26-c82b8c3c621f",
+    "name": "Tiffany Tattrie",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0cb27ccc-6750-46be-8903-695574a5ca45",
+    "name": "Rebecca Maruschak",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "05889441-854a-4a7e-a498-d81f5063c6d3",
+    "name": "Forrest Novak",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "a873b09e-30e5-4f98-a1e7-06a778f6f774",
+    "name": "Lenny Baranski",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "f29f1a3d-5571-4595-9f05-6d5e37708334",
+    "name": "Marsha Hess",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0798a55c-b86f-424f-b7db-44a78b379b7d",
+    "name": "Kyanna Williams",
+    "before": {
+      "jobTitle": "Store Assistant Manager",
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "42857a50-b1a1-4ecd-a75f-f41554cfe6ce",
+    "name": "Laura Motz",
+    "before": {
+      "jobTitle": "STL",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "a143baba-466e-48c9-9243-14dcfe110e72",
+    "name": "Timothy Tallman",
+    "before": {
+      "jobTitle": "Assistant Manager",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "dea52729-e451-4b1d-a2c2-dc00645fce62",
+    "name": "Robert Fraze",
+    "before": {
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "8396d857-d3bb-417f-9296-6634db808045",
+    "name": "Amy Morgan",
+    "before": {
+      "jobTitle": "Canton Outlet Manager",
+      "department": "Outlet",
+      "officeLocation": "DEI",
+      "managerId": "36ee41d1-a1a6-49c0-883b-46d309de08ed"
+    }
+  },
+  {
+    "entra_id": "6e20fa95-d86e-463a-982d-c835cadb3b4b",
+    "name": "Lori Bejbl",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2809efb3-e205-422d-83af-13a5efdac529",
+    "name": "April Steele",
+    "before": {
+      "jobTitle": null,
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f4dd4c12-f230-4a84-b3f2-c3b1349d7d02",
+    "name": "Patrick Swonger",
+    "before": {
+      "jobTitle": null,
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2ec7126f-a3e7-40fd-9d8b-8c5eb54cccab",
+    "name": "Jessica Short",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d6c27799-fa07-4c40-b72b-2b1fc6b2c02d",
+    "name": "Adan Brake",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "93546a86-32fc-4504-a6eb-393c4afe8662",
+    "name": "Edward Kalinauskas",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b6f68e61-e775-4f17-a5a3-52946d813fa9",
+    "name": "Lewis McGlothlin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "401d016a-289f-4718-9f0f-dc26c131bcd3",
+    "name": "Erin Lohrum",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": "918d7500-4cd6-493c-8f8b-8d9e4e89ddfd"
+    }
+  },
+  {
+    "entra_id": "ca049503-9c2d-46f8-8519-dbbf809e8af8",
+    "name": "Janice Supek",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f6236837-32d2-4577-ba24-0766fddb2cb0",
+    "name": "Sara McElwain",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4471da79-908c-4a4f-98b8-5b7f8e67ff5f",
+    "name": "Abigail Lillie",
+    "before": {
+      "jobTitle": "STL",
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6c355edd-1de3-46c0-b573-4fb5a8ec7ae0",
+    "name": "Melinda Dudley",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4cf94a8d-79a8-47d2-8ce9-a9bedde59a1e",
+    "name": "Cathy Scott",
+    "before": {
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "56a79dc3-dba8-4631-9a86-d7ba87dc58ef",
+    "name": "Antonio Bennett",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4863ac15-b9d3-4878-b014-66eaca7aa5f7",
+    "name": "Alex Taylor",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "237ba67c-ac5f-4c9b-a795-1bfc15af7be5",
+    "name": "Mary McCarthy",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "e306bb52-2a2a-4f7a-b761-cdde71245fbf",
+    "name": "Travis Beard",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c60cf9fc-5679-4e24-8850-3b8bfbbd3483",
+    "name": "Demetrius Thomas",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a2f778c9-232e-4abf-bbf4-8dc9b73f3aa7",
+    "name": "Hunter McCollins",
+    "before": {
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "7786b76e-da00-476c-9651-65accc1942c5",
+    "name": "Rita Barr",
+    "before": {
+      "jobTitle": "Sales Floor Assoc",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ca433386-9555-40bf-8fa6-d18ca441d4fc",
+    "name": "Lynn Kopasakis",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "61ef9ca6-837a-49e3-8d3a-9bfac9b09830",
+    "name": "Dawn Rusnak",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": "393c5434-fad6-4dc4-89b0-61fa65292fc6"
+    }
+  },
+  {
+    "entra_id": "4583e682-6c82-4586-8583-60df60e3f442",
+    "name": "Patricia Herink",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "ed13ec9f-8417-4c03-9f93-ac7aae1a10ed",
+    "name": "Melinda Haney",
+    "before": {
+      "jobTitle": "ASM",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "8a0c9a56-3d26-432b-bcb3-c935a6d7f747",
+    "name": "Nicholas Garrett",
+    "before": {
+      "jobTitle": "Donor Greeter",
+      "department": "Rt. 62",
+      "officeLocation": null,
+      "managerId": "54fd7555-eb19-4425-84d5-8cc8759e90a9"
+    }
+  },
+  {
+    "entra_id": "872aa242-69a1-4c00-9e2a-b10e5f662136",
+    "name": "Bryant Harvey",
+    "before": {
+      "jobTitle": "Material Handler",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "bbe71e99-1c76-489d-a1a3-e1a5ab51ce2b",
+    "name": "Jane Laurinaitis",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b13980e7-c47e-4010-81ed-d7124d759012",
+    "name": "Taylor Little",
+    "before": {
+      "jobTitle": "STL",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "32884fb5-c4e7-47b8-bab6-2935d5bde809"
+    }
+  },
+  {
+    "entra_id": "8c4801c9-47d6-4eb6-a035-de7f1dfcddb5",
+    "name": "Angela Quillin",
+    "before": {
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b5ffbe53-3e48-4dcb-9480-e4b1f7dff984",
+    "name": "Mary Salinas",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "b6910384-a350-4920-92eb-640a93ce4c43",
+    "name": "Sara Zigler",
+    "before": {
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "000d505a-417b-40c7-bf36-50dd1b0a395e",
+    "name": "John Stertzbach",
+    "before": {
+      "department": "Rt. 62",
+      "officeLocation": null,
+      "managerId": "54fd7555-eb19-4425-84d5-8cc8759e90a9"
+    }
+  },
+  {
+    "entra_id": "7f4b0bf6-179a-4f29-b06e-d2c2bff73428",
+    "name": "Nancy Graff",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": "393c5434-fad6-4dc4-89b0-61fa65292fc6"
+    }
+  },
+  {
+    "entra_id": "b9a5e00c-97eb-4e3b-b328-2de5a406779d",
+    "name": "Ashley Cleary",
+    "before": {
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ee21f9e8-5562-4cc3-8b06-92bd2c98293f",
+    "name": "Kelly Bonacci",
+    "before": {
+      "jobTitle": "Director of Accounting & Finance",
+      "department": "Finance",
+      "officeLocation": "DEI",
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "afa58757-cd63-46a8-96f9-ffb3608f765b",
+    "name": "Aaron Toulson",
+    "before": {
+      "jobTitle": "Sales Floor Assoc",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "1fff649a-6488-4936-87a2-7981b46780ec",
+    "name": "Jeremy Puckett",
+    "before": {
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6b985331-64ff-40d5-ba30-3703bc6b9532",
+    "name": "Nicolette Crum",
+    "before": {
+      "jobTitle": "Material Handler",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "534bb017-ce04-4a63-8b28-37be40916ba3",
+    "name": "Juanita Akerblad",
+    "before": {
+      "jobTitle": "STL",
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "82a23fe8-8af9-44a8-8ac0-c75ebfef7169",
+    "name": "Ethan Randolph",
+    "before": {
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8ac0238d-6649-4760-9e0d-4600ed272892",
+    "name": "Rhonda Smith",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "8527c298-3ea3-425d-aaff-471a246daac0",
+    "name": "Christina Ralston",
+    "before": {
+      "department": "Finance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fc213a2e-d613-4809-9e83-850967781be1",
+    "name": "Carol Taormina",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "348fba7c-1d3a-450a-bc7a-a53386498228",
+    "name": "Lindsay Nameth",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "89093da4-61ff-4edf-83e2-16cdd859e74b",
+    "name": "William McWilliams",
+    "before": {
+      "jobTitle": "STL",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7f543896-cd50-48e0-becf-14b0d90c5183",
+    "name": "Jane Rusnak",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4e5d8e81-4c76-4534-a053-02d91faa6f9a",
+    "name": "James Kontra",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "5871e650-a90c-4653-af01-b40da426a5c2",
+    "name": "Donna Davis",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "a91bcbf9-7cd5-4acd-b4c4-eb3007f7307b",
+    "name": "Leshon Tyus",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "02db584d-9d5c-4329-94d8-fab1587a9bd5",
+    "name": "Osie White",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "292013b0-f46a-4d1a-9bcc-b806e282b1ad",
+    "name": "Cheryl Speece",
+    "before": {
+      "jobTitle": "Weirton Manager",
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": "aa54b506-3b03-4a30-ab1d-43c2ef332ed3"
+    }
+  },
+  {
+    "entra_id": "d2524d54-e3fc-4666-96d9-7042a38f0b02",
+    "name": "Dakota Hampton",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "58e0528a-fcdb-451c-b103-7a12b8dd8049",
+    "name": "Anne McVeigh",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "f8f1607b-503e-461b-a42d-7b970c326363",
+    "name": "Semaj Williams",
+    "before": {
+      "jobTitle": "Material Handler",
+      "department": "Cleveland Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9d4b2f5f-7f4c-4d01-95de-dae7f89a654c",
+    "name": "Wahren Zhao",
+    "before": {
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "ecd67789-23b8-45c4-bd56-f0b24ef78cb3",
+    "name": "Aubrey Schenker",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0a1f015c-b9c8-4cbe-870c-4062e9936692",
+    "name": "Samuel Majoros",
+    "before": {
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b01d0c6f-b013-433a-89d0-2112b52d4f2d",
+    "name": "Gregory Rogers",
+    "before": {
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "e256f42f-03a5-427f-8170-47c5afa16fd3",
+    "name": "Colleen Morrison",
+    "before": {
+      "jobTitle": "AM",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "a0390b3d-dadd-46ec-b76c-dc327724145d"
+    }
+  },
+  {
+    "entra_id": "6ca9e6e7-2ad8-474d-8b5f-9c4e41aab44a",
+    "name": "Claudia Ball",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "2b7ef338-2aaf-4ecb-9f53-ba9a506e4552",
+    "name": "Jason Hyde",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "f2756053-be39-44f5-b9d8-ca36d74cda38",
+    "name": "Elizabeth Heintz",
+    "before": {
+      "jobTitle": "Painesville Manager",
+      "department": "Painesville",
+      "officeLocation": "DEI"
+    }
+  },
+  {
+    "entra_id": "89450222-7e5b-43f2-8528-d61c3e5a98b6",
+    "name": "Mark DeGraffenreed",
+    "before": {
+      "jobTitle": "Material Handler",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "737a9b1d-0163-4b86-8577-afae7b6ca73b",
+    "name": "Della Bake",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bb54a997-6e3b-4f95-9033-269896595f05",
+    "name": "Pallas Stahlman",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "615183bd-9259-46e1-8f03-9770ba0bf022",
+    "name": "Stephanie Beeson",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "1465856b-0270-42b1-b1e0-0cdaba5f02f4",
+    "name": "Melvin Scott",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "32884fb5-c4e7-47b8-bab6-2935d5bde809",
+    "name": "Bradford Belcher",
+    "before": {
+      "jobTitle": "Foxboro Manager",
+      "department": "Foxboro Store",
+      "officeLocation": null,
+      "managerId": "918d7500-4cd6-493c-8f8b-8d9e4e89ddfd"
+    }
+  },
+  {
+    "entra_id": "8cd06c41-1459-489f-b9b0-2ec083b3992e",
+    "name": "Amanda Todd",
+    "before": {
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8bede16c-942a-49c2-9e00-c1ccfc154079",
+    "name": "Anthony Orsini",
+    "before": {
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "a15aa1da-f535-4a9d-b811-c67847ee92e7",
+    "name": "Heidi Heinzeroth",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8d6ff490-0eff-4412-bd9b-32b234af6e50",
+    "name": "Toni Mayle",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d990e860-6552-4031-b027-d7a3a1882966",
+    "name": "Anita Szell",
+    "before": {
+      "jobTitle": "Route 62 Manager",
+      "department": "Rt. 62",
+      "officeLocation": null,
+      "managerId": "918d7500-4cd6-493c-8f8b-8d9e4e89ddfd"
+    }
+  },
+  {
+    "entra_id": "b7d9f53a-21ff-4960-b0f3-6f6330a5412c",
+    "name": "Mary Wolfe",
+    "before": {
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f3ef736a-a072-43b7-99c6-398de37f350b",
+    "name": "Cynthia Fekete",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "a75ef27a-c955-4530-bc88-477488609ea5",
+    "name": "Darrian Slate",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "11e0e459-0b47-45f4-b0ab-daf0b4d05d18",
+    "name": "Kimberly Thornton",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "62399b89-bea4-4fb5-980d-273bcbbbe287",
+    "name": "Daniel Mastroianni",
+    "before": {
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "558265ea-cd1b-418c-8c22-89949688cba4",
+    "name": "Daniel Nelson",
+    "before": {
+      "jobTitle": null,
+      "department": "Central Processing",
+      "officeLocation": null,
+      "managerId": "ed5bc117-3442-47fd-931a-1eda2cfdc2b3"
+    }
+  },
+  {
+    "entra_id": "daaa1c52-a5b0-4f66-b972-fe93f2abfa48",
+    "name": "Olga Kovach",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "0a83b780-5185-44ea-af04-9e01feafd803",
+    "name": "Rebecca Rizor",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "618b8368-2715-48cf-9b90-d17cc439f54e",
+    "name": "Deborah Owen",
+    "before": {
+      "jobTitle": "Middleburg Manager",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "f233ba4c-a3ee-41a2-b109-561a1ff769ed"
+    }
+  },
+  {
+    "entra_id": "e1fadb4b-38b9-4e05-a654-43f75842f541",
+    "name": "Daria Payan",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "e89b6d51-5ac6-4431-993e-b7d1264f7e71",
+    "name": "Michael Stern",
+    "before": {
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "92e230a9-a1e1-4252-bbd4-8e1451e36ab9",
+    "name": "Amna Mohammed",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "92adaf36-4d34-41b3-ad10-782925f5bc33",
+    "name": "Kevin Gastin Jr",
+    "before": {
+      "jobTitle": "Material Handler",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "1fdd8af8-3ec0-4beb-a720-f35b9978347f",
+    "name": "Robin Talbot",
+    "before": {
+      "jobTitle": null,
+      "department": "Alliance",
+      "officeLocation": "DEI",
+      "managerId": "918d7500-4cd6-493c-8f8b-8d9e4e89ddfd"
+    }
+  },
+  {
+    "entra_id": "511c4a25-5ddc-4a03-aab6-edfef54088e1",
+    "name": "Sarah Stupka",
+    "before": {
+      "jobTitle": "Store Assistant Manager",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "0563185b-259d-461e-9b87-e5b67ca0f626"
+    }
+  },
+  {
+    "entra_id": "3d860e70-8e85-4060-bf6f-9284f526bac0",
+    "name": "Tracy Hennessy",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "184d638b-e9fb-4fed-867b-c7329985c97e",
+    "name": "Donald Shebestak",
+    "before": {
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "22d1d2e9-83dd-4c5e-96e4-0e338910b846",
+    "name": "Mason Slusarz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b2c88dfb-4505-457c-9c97-1870f2b3bd30",
+    "name": "Jacob Richards",
+    "before": {
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "189462b6-a632-400c-81c5-8cfac6df70d6",
+    "name": "Tomasina Pitts",
+    "before": {
+      "jobTitle": null,
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a5f23191-e6ce-4268-a409-a6613f758eae",
+    "name": "Alice Koons",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "88538ac2-abc5-44bb-9df1-f24ee204e5f3",
+    "name": "Luke Schmidt",
+    "before": {
+      "jobTitle": null,
+      "department": "Driver",
+      "officeLocation": null,
+      "managerId": "ed5bc117-3442-47fd-931a-1eda2cfdc2b3"
+    }
+  },
+  {
+    "entra_id": "461dc861-fbe1-4378-86bb-9597b2ff0be4",
+    "name": "Susan Pritchard",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "a78a9251-870e-493b-ac38-a39fc6cec5e8",
+    "name": "Nancy Riffle",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2a2c34bd-c634-4290-b3bd-2d75967e47a1",
+    "name": "Kathleen Schehl",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7ece382c-f5e3-468e-b6f1-2de91f75e250",
+    "name": "Michael DoBroka",
+    "before": {
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "7a098123-7ba0-4eed-bd5d-08d436dfa324",
+    "name": "Adam Becerra",
+    "before": {
+      "department": "Transportation",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e6f6e5a1-ddd1-4ff0-91d0-9a78b063a68e",
+    "name": "Rosina Garland",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "a38daf5c-6644-4a7a-a87b-c17d8428d468",
+    "name": "Bettina Garland",
+    "before": {
+      "department": "Rt. 62",
+      "officeLocation": null,
+      "managerId": "54fd7555-eb19-4425-84d5-8cc8759e90a9"
+    }
+  },
+  {
+    "entra_id": "8a390249-5c2e-405f-970b-a255bf94be6d",
+    "name": "Terry Jones",
+    "before": {
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": "ac67ed9b-0272-41eb-8698-c3f9b9678847"
+    }
+  },
+  {
+    "entra_id": "52946979-2323-47e9-8446-8cc05190a12a",
+    "name": "Logan Linzer",
+    "before": {
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": "393c5434-fad6-4dc4-89b0-61fa65292fc6"
+    }
+  },
+  {
+    "entra_id": "8121545e-b8fc-4e5e-ab21-24e20bb9f7c5",
+    "name": "Jonathan Fatkins",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b001e198-814a-462e-8d78-adf55dff13aa",
+    "name": "Mario Workman",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "93b41b9c-cefc-44b1-9d9c-c7d4b86ffc94",
+    "name": "Diana Bellman",
+    "before": {
+      "jobTitle": null,
+      "department": "ADC Westlake",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "7f0c888d-d316-48ca-b461-3f61afc10f9d",
+    "name": "Arianna Nguyen",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bbe80572-5951-4d48-843d-675c379ea0be",
+    "name": "Krystal Klinect",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "0563185b-259d-461e-9b87-e5b67ca0f626",
+    "name": "Stacey Dalziell",
+    "before": {
+      "jobTitle": "Middleburg Manager",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "f233ba4c-a3ee-41a2-b109-561a1ff769ed"
+    }
+  },
+  {
+    "entra_id": "5ffdb5b6-854f-4678-8b32-46dc52e99f7f",
+    "name": "Priscilla Mitchell",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "65fccfbc-164b-424f-a198-b56062bc7773",
+    "name": "Karen Stranan",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "fa52604e-cb89-4a2e-af00-cde18243ed7b",
+    "name": "Cheyenne Quillin",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "86e17c4a-848e-4b0a-a45f-70fe00c9a5ff",
+    "name": "Nicholas Backer",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1c6657b7-81c2-47c3-9880-bd6f3de3faf3",
+    "name": "Gretchen Fragasse",
+    "before": {
+      "jobTitle": "STL",
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "920536f5-d15a-49a9-95b9-dff80df38166",
+    "name": "Patricia Dalberto",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "70a36261-14e1-471c-a3dc-8474d6dd64d7",
+    "name": "Lisa Adkins",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "df6aba8e-828d-4b94-b76d-a0a29e6ecdb9",
+    "name": "Samantha Peden",
+    "before": {
+      "jobTitle": null,
+      "department": "Perry",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "95d92429-2982-41c1-98b8-89334292fbf5",
+    "name": "Donovan Fish",
+    "before": {
+      "jobTitle": "Store Team Lead",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "431550ab-d017-46fc-9025-e6a1c85d59cd",
+    "name": "Reya Givens",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ed9a4eb7-5afd-4b61-88e0-c9412b7a04ed",
+    "name": "Autum Steinbach",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "be7ad970-6a73-45dc-b15d-8494c7b50d29",
+    "name": "Molly Peden",
+    "before": {
+      "jobTitle": null,
+      "department": "Perry",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c742575e-5b1b-4909-93a6-9fbe57d5460e",
+    "name": "Kimberly Crowl",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c113f1e8-8697-4989-aef0-86f0c0761542",
+    "name": "Alanys Hernandez",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9240bc62-021f-4189-b9a1-0746687fd8a0",
+    "name": "Ben Harris",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Warehouse",
+      "officeLocation": null,
+      "managerId": "36ee41d1-a1a6-49c0-883b-46d309de08ed"
+    }
+  },
+  {
+    "entra_id": "4a0bd4ea-82e2-4025-acb3-d00b3aa8b6dc",
+    "name": "Haley Sampsel",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a8b5b1d7-5a4c-4838-8f58-36e29b1cfef3",
+    "name": "Douglas Tice",
+    "before": {
+      "jobTitle": "Training",
+      "department": "HR",
+      "officeLocation": null,
+      "managerId": "5a93e6b7-eb2a-4664-9397-46fc7f2b2c5e"
+    }
+  },
+  {
+    "entra_id": "b84042ce-ae5a-490c-81e2-9f1c00d08fed",
+    "name": "Kimberly Dotson",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "05c052af-5553-4874-bb5c-5546ff9ee543",
+    "name": "Logan Monty",
+    "before": {
+      "jobTitle": null,
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": "8396d857-d3bb-417f-9296-6634db808045"
+    }
+  },
+  {
+    "entra_id": "4f996f87-19f0-467a-8108-f65b7c17a080",
+    "name": "Nichole Diehl",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": "0798a55c-b86f-424f-b7db-44a78b379b7d"
+    }
+  },
+  {
+    "entra_id": "23c772af-a410-4b24-a860-5d9a27eb4ff1",
+    "name": "Rachelle Kelly",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": "0798a55c-b86f-424f-b7db-44a78b379b7d"
+    }
+  },
+  {
+    "entra_id": "e7aca619-effe-4e0b-81ed-603deba31822",
+    "name": "Chloe Suntheimer",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fb1e2b5f-ec7e-4c5f-96a8-b0d3b26b7ad4",
+    "name": "Jenna Tribuzzo",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d5972d27-683f-4295-a0f8-37be31dec0d7",
+    "name": "Karah Perez",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4ef91711-c169-4558-95fe-707e0816e6e1",
+    "name": "Wanda Jones",
+    "before": {
+      "jobTitle": null,
+      "department": "Eastlake Central Processing",
+      "officeLocation": null,
+      "managerId": "39123189-7df1-498a-9714-5e0b17ac0c6e"
+    }
+  },
+  {
+    "entra_id": "b7ee0d22-2add-4808-80ff-dc71cc15d00f",
+    "name": "Maryann Jones",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Transportation",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c8a95cf9-5d33-4ec3-aefc-c4e47f58af80",
+    "name": "Holly Nichols",
+    "before": {
+      "jobTitle": "Store Team Lead",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "adbe72d0-c071-4be7-9113-7ac4382314ad",
+    "name": "Diane Leonardi",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "98f594a6-fe3f-4513-b289-64d53e43d02c",
+    "name": "Charles Brown",
+    "before": {
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "f48106aa-8511-4e18-934b-7d3707d1c2cc",
+    "name": "Angela Harris",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": "0798a55c-b86f-424f-b7db-44a78b379b7d"
+    }
+  },
+  {
+    "entra_id": "a28cd042-5818-49a3-9a9a-7390248db2bd",
+    "name": "Jessica Thornton",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d377ec3d-bac2-46b7-a3f6-f9cbe1a218f7",
+    "name": "Peter Tepsic",
+    "before": {
+      "jobTitle": null,
+      "department": "Canton Warehouse",
+      "officeLocation": null,
+      "managerId": "ed5bc117-3442-47fd-931a-1eda2cfdc2b3"
+    }
+  },
+  {
+    "entra_id": "bf9d6d6e-e15c-4c4c-b8eb-00230c0ea6fc",
+    "name": "Tesa Land",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bf1218be-c170-49c2-a762-946645b58e2e",
+    "name": "Shannon Garrett",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "05de0e8f-5b34-4586-b08b-6bea0dbc138c",
+    "name": "Cherrie White",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "36012755-5784-4daa-9f3a-a2fb35752879"
+    }
+  },
+  {
+    "entra_id": "2f276daf-bbf5-4f1c-8b43-594e86fb0fe6",
+    "name": "Arlene Noviski",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f0d973e9-40cd-4bca-82f4-d3131ae957d7",
+    "name": "Alyssa Hietanen",
+    "before": {
+      "jobTitle": null,
+      "department": "Wired Up",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "44c8f6e2-5a21-4c6c-ace7-a2f70ac1bbc3",
+    "name": "Suzanne Burke",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7b476823-f3f4-4215-b7e4-573c326712d8",
+    "name": "David Everyday",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a9f73213-c9af-48dd-84d0-cefc7c9efef8",
+    "name": "Anna Turner",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9ad162fc-d369-4350-888f-5045a1ee3b1c",
+    "name": "Teresa Barger",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "134b1f9b-2bdb-4372-90a6-b999dc880ef9",
+    "name": "Cody Lynch",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "792cc8cc-bcb1-43f2-a2cd-e93a96562f1a",
+    "name": "Rachel Gunnoe",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "96b557b0-7378-431a-8255-2bec6e026b92",
+    "name": "Terrance Behnke",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": "0798a55c-b86f-424f-b7db-44a78b379b7d"
+    }
+  },
+  {
+    "entra_id": "27da2946-dd59-469a-88ed-cd4de00310a3",
+    "name": "David Haupt",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Warehouse",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "bd9bd98c-8ff5-4f97-a5e8-45a86e67f2b8",
+    "name": "Madison McCurdy",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "6a7ac31b-8961-4977-a48e-7180873c7669",
+    "name": "Kelly Miller",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "beb4b346-a10d-4a12-967d-bae9518bb7cc",
+    "name": "Paul Raymond",
+    "before": {
+      "jobTitle": "Willowick Manager",
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": "aa54b506-3b03-4a30-ab1d-43c2ef332ed3"
+    }
+  },
+  {
+    "entra_id": "2f5526ed-4f8b-4690-ac84-7caa0d0b1448",
+    "name": "Diane Coughlin",
+    "before": {
+      "jobTitle": "Store Team Lead",
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": "beb4b346-a10d-4a12-967d-bae9518bb7cc"
+    }
+  },
+  {
+    "entra_id": "3f6bdb64-df89-48de-b69a-f69c4ddac89b",
+    "name": "Adam Hershberger",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "27ffba30-abb3-460d-98e3-e1da8652e6ac",
+    "name": "Justin Fincannon",
+    "before": {
+      "jobTitle": null,
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cc8ef43c-bc9d-49cb-b73e-d2c12a3c5370",
+    "name": "Lindsey Barrett",
+    "before": {
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4ba045fd-dd9e-4456-a269-34d28498ab81",
+    "name": "Alek Fithen",
+    "before": {
+      "jobTitle": "Donor Greeter",
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "36012755-5784-4daa-9f3a-a2fb35752879"
+    }
+  },
+  {
+    "entra_id": "cb31d574-b177-4bca-96c6-ce5927605ac2",
+    "name": "Tosha Thomas",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "36012755-5784-4daa-9f3a-a2fb35752879"
+    }
+  },
+  {
+    "entra_id": "d8f00bbe-427f-4d7b-a73a-e5d88eba3364",
+    "name": "Eric Calfee",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Warehouse",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "bed34955-236f-4a1a-92d4-55f8e85b6112",
+    "name": "Jeffrey Brooks",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Warehouse",
+      "officeLocation": null,
+      "managerId": "ca0be6c3-0f39-48cc-9afc-f4a3aaf33335"
+    }
+  },
+  {
+    "entra_id": "e2b7c513-f3b5-4dde-9e54-3742612ea708",
+    "name": "Susan Merritt",
+    "before": {
+      "jobTitle": null,
+      "department": "Washington Square Bookstore",
+      "officeLocation": null,
+      "managerId": "00507f87-cdc4-4c51-b0e5-cd7af5b13c4a"
+    }
+  },
+  {
+    "entra_id": "340c6b4a-cd9d-498c-940b-7646ec5edbb5",
+    "name": "Mary Magallanez",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "36012755-5784-4daa-9f3a-a2fb35752879"
+    }
+  },
+  {
+    "entra_id": "44a7a592-b128-4b33-bed2-96afbe1c69ce",
+    "name": "David Kiser",
+    "before": {
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "3bc22233-5657-4ffd-bebb-5a52386fbbde",
+    "name": "Jermaine Jeffery",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "30c38bfb-7cd2-49de-8656-24be134e4f73",
+    "name": "Margaret Waganek",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "24b78a1d-635e-4e90-8f65-5c5fbf1a3f62",
+    "name": "Michael Jarret",
+    "before": {
+      "jobTitle": null,
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3537e837-0e59-4db5-b583-9d97cdaf4cbb",
+    "name": "Tyler Hudson",
+    "before": {
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "b83f7edb-d1a0-489c-8f1b-9c79cf71b51f",
+    "name": "Jeremy Moss",
+    "before": {
+      "jobTitle": "Store Team Lead",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b9ae6547-bc93-4058-b960-d7bdc96ec26b",
+    "name": "Isabella Johnson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "067f76a2-7c03-4292-9b25-ae41f5f4b80d",
+    "name": "Karla Reese",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b80d3762-d07c-4692-80f2-6bc2d5f740bc",
+    "name": "Johnny Frazier",
+    "before": {
+      "jobTitle": null,
+      "department": "Transportation blvd",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "56119c6d-36b8-4a5d-88cf-dd311635b1d7",
+    "name": "Emily Bailey",
+    "before": {
+      "jobTitle": "Donor Greeter",
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b628bc65-bfa6-4e0e-b4cf-dae560983f19",
+    "name": "Carol Lucas",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": "36012755-5784-4daa-9f3a-a2fb35752879"
+    }
+  },
+  {
+    "entra_id": "4d83804a-73f2-43af-bfe2-93c2beb93adc",
+    "name": "Jamie Young",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "736a3cfe-f866-44d5-808f-ae63aab02fa1",
+    "name": "Janet McMahon",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "21bfaa92-9db7-458d-8ef4-6ac2724bdc7c",
+    "name": "Sara Beshires",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": "292013b0-f46a-4d1a-9bcc-b806e282b1ad"
+    }
+  },
+  {
+    "entra_id": "fa2bce28-2dcc-477d-b658-b898b7d8e647",
+    "name": "Ann Skerkavich",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "808660b8-df62-4b11-ba33-5a19945808db",
+    "name": "Nathan Sebastian",
+    "before": {
+      "department": "Transportation",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "acb2dc14-0474-42a9-b7fc-af45cade6fc2",
+    "name": "Logan Bishop",
+    "before": {
+      "department": "Transportation",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4eaf5a59-8fb6-41a0-b097-ab3ad953c42f",
+    "name": "Jacob Woods",
+    "before": {
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "711b68f6-e552-4fe0-8b53-e3d9c0de5f37",
+    "name": "Veronika Willis",
+    "before": {
+      "jobTitle": "Hanger",
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": "a143baba-466e-48c9-9243-14dcfe110e72"
+    }
+  },
+  {
+    "entra_id": "66e77acc-1ed5-49e8-b03b-cf8e9390bf49",
+    "name": "Terri Hull",
+    "before": {
+      "jobTitle": "Donation Pricing Assoc",
+      "department": "West Tusc",
+      "officeLocation": null,
+      "managerId": "b13980e7-c47e-4010-81ed-d7124d759012"
+    }
+  },
+  {
+    "entra_id": "7c4b6065-d468-4fd5-adf2-fbad1aa167c5",
+    "name": "Terrence Owens",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f5a9cce2-79bd-4d0e-8391-9bf3462e8719",
+    "name": "Pamela Rennicker",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5c888de7-3679-40de-bde3-a8e931d2b5db",
+    "name": "Dusty Palmer",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6e79567e-6908-4d32-8435-da975bf5be40",
+    "name": "Katlynn White",
+    "before": {
+      "jobTitle": "Cahier/Sales Floor Associate",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "50e3b4f1-aa53-4af2-b1ab-61ed953933d2",
+    "name": "Jasmine Walker",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": "511c4a25-5ddc-4a03-aab6-edfef54088e1"
+    }
+  },
+  {
+    "entra_id": "7756851a-61e7-4c36-b748-d184210a5909",
+    "name": "Wanda Thornhill",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": "e256f42f-03a5-427f-8170-47c5afa16fd3"
+    }
+  },
+  {
+    "entra_id": "cbd70c80-b84b-4878-8050-ce3ff996d072",
+    "name": "Teresa Dingus",
+    "before": {
+      "jobTitle": "Sorter",
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": "f2756053-be39-44f5-b9d8-ca36d74cda38"
+    }
+  },
+  {
+    "entra_id": "8fc60d3a-68ab-4517-8d00-4f7724a74038",
+    "name": "Donna Koster",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": "f2756053-be39-44f5-b9d8-ca36d74cda38"
+    }
+  },
+  {
+    "entra_id": "b07e53c5-1315-4e2d-8ac9-1e51fdd0b024",
+    "name": "Lamar Martin",
+    "before": {
+      "jobTitle": "Material Handler",
+      "department": "Cleveland Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5e3783df-1b28-4365-bbd6-fa1077f32e83",
+    "name": "Dawn Minisall",
+    "before": {
+      "jobTitle": "Cashier",
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e4826215-a505-4c3c-83c2-3a157699cd61",
+    "name": "Renee Brown",
+    "before": {
+      "jobTitle": "Donation Pricing Associate",
+      "department": "New Phila",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "96ed3d07-2cc1-4188-b808-016a601c671b",
+    "name": "Bryan Peck",
+    "before": {
+      "jobTitle": null,
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9b24433b-02bc-4dc2-9ca2-f74ccb9b5b61",
+    "name": "James Summers",
+    "before": {
+      "jobTitle": "Donor Door Attendant",
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0e9709e1-12f2-450d-8a7c-af66b6f62847",
+    "name": "Megan Schilling",
+    "before": {
+      "jobTitle": "Cashier/Sales Floor Associate",
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d093c8a1-4dfc-4631-92f4-1494a3fffee5",
+    "name": "Renee Hooper",
+    "before": {
+      "jobTitle": null,
+      "department": "Eastlake",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e4931744-799b-4cef-8f26-5432524e7ef9",
+    "name": "Tabatha King",
+    "before": {
+      "jobTitle": "Assistant Manager",
+      "department": "Perry",
+      "officeLocation": null,
+      "managerId": "aa54b506-3b03-4a30-ab1d-43c2ef332ed3"
+    }
+  },
+  {
+    "entra_id": "b0081825-1da3-4be8-91a3-f96ef78cfd80",
+    "name": "Brandon Nicholson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4eba620b-dfa3-409c-a68d-e725c8cd911e",
+    "name": "Jacqueline Hamlin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2f439d77-36cc-41cd-8d32-ffd0bbfabc75",
+    "name": "Charles Altizer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9b8dc3b8-c853-4fd2-b916-275f77d20d2e",
+    "name": "Trenton Crook",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7637f15b-09dc-4030-9f7c-7b22238ab219",
+    "name": "Gloria Busson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7816fc52-3a34-4b65-8db8-0b55fcb325cd",
+    "name": "Darlene Chuich",
+    "before": {
+      "jobTitle": null,
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e9f591b7-78dc-42fb-b7e9-373d397b0ce5",
+    "name": "Rita Karakoulakian",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "24eee35f-3273-4a36-9769-d47bea458d22",
+    "name": "Kathleen McAllister",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cf515905-f0a0-4c91-881e-f128031c6ce2",
+    "name": "Stephanie Deperte",
+    "before": {
+      "jobTitle": null,
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3c32bdf8-69f6-406d-8f99-2842d66567da",
+    "name": "Mia Snyder",
+    "before": {
+      "jobTitle": "Accounts Payable",
+      "department": "Finance",
+      "officeLocation": null,
+      "managerId": "ee21f9e8-5562-4cc3-8b06-92bd2c98293f"
+    }
+  },
+  {
+    "entra_id": "c3181661-997b-4189-83eb-7f7b106c26ee",
+    "name": "Renee Alvado",
+    "before": {
+      "jobTitle": null,
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4cfd1715-075c-471a-8ed8-e98d1a681ab1",
+    "name": "Frosty Saunier",
+    "before": {
+      "jobTitle": null,
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "214a6947-1787-4c4c-af63-bc36ab90d9a5",
+    "name": "Mark Patrick",
+    "before": {
+      "jobTitle": null,
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fc5238d9-9dcb-4960-acab-243e0ab6a72a",
+    "name": "Selena Durr",
+    "before": {
+      "jobTitle": null,
+      "department": "Snow road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0aa35519-85a9-4b84-8eff-e67a1c388805",
+    "name": "Terrance Savage",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e2e23fe9-e384-491e-9070-0253ea57363e",
+    "name": "Bailey Slate",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a219b9e5-75f9-4da8-86bc-72ca5b5cbc3f",
+    "name": "Alice Hawkins",
+    "before": {
+      "jobTitle": "Wintersville Manager",
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": "aa54b506-3b03-4a30-ab1d-43c2ef332ed3"
+    }
+  },
+  {
+    "entra_id": "455eeff3-fdda-4f80-ab3e-c484df9bb840",
+    "name": "Kurdtis Lilley",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "04eb6d2f-8e85-43eb-95c7-04900d907fa5",
+    "name": "Tabatha Anderson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0424d47a-7ee1-4f8a-b606-8e7d4f5c6b2f",
+    "name": "Owen Neidert",
+    "before": {
+      "jobTitle": null,
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7fc4ebab-232d-4d82-9021-3e40732bbeee",
+    "name": "Betty Percy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8eece964-8692-4389-ad36-e05b13261bfc",
+    "name": "Stephanie Klinect",
+    "before": {
+      "jobTitle": null,
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "49f2db28-cc1d-44eb-9d5f-89ae5787cd55",
+    "name": "Aidan Hillman",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "89f2a5d2-61de-4388-836d-509a9bb26021",
+    "name": "Madison Greenleaf",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d706326b-589f-497e-9465-62ee41430da1",
+    "name": "Kirstie Kovach",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fa9c30e6-377a-423f-89a5-2953b64f214e",
+    "name": "Tamara Meeker",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "40deb93b-e834-492f-8688-d239f066f4c6",
+    "name": "Matthew Soley",
+    "before": {
+      "jobTitle": null,
+      "department": "Canton Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "919eca4a-4bb5-48b3-bd27-82c12c8a7fe6",
+    "name": "Hillary Joseph",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6aec6ea8-08fd-4f89-afd0-97b6391360e3",
+    "name": "Kerry Hill",
+    "before": {
+      "jobTitle": "University Hts Manager",
+      "department": "University ",
+      "officeLocation": null,
+      "managerId": "45131f6b-e846-487a-9c83-1e072768902c"
+    }
+  },
+  {
+    "entra_id": "3bea530d-9cff-46f6-ac85-2f112e5468e9",
+    "name": "Noah Lee",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "95e8c7f4-3dcf-4e7f-b23c-2c15fd6e2eca",
+    "name": "Annastasia Clemson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6343feed-2758-4d48-ac96-1e6b04c57a95",
+    "name": "Brittney Mikut",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a0ac8e4e-1dad-492f-8130-0e5e29536926",
+    "name": "Jenna Swank",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b435ab2f-13b5-45ef-a9d7-e3d83977f82b",
+    "name": "Briana Vaughn",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5a7281c6-c8b2-43d8-828c-73b217441373",
+    "name": "Alina Plavny",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d19b4cf5-06b0-4dba-9736-34077dd82d3d",
+    "name": "Misty Lawler",
+    "before": {
+      "jobTitle": null,
+      "department": "Carrollton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9168e45a-26ef-4707-b6ed-4edf1a1af826",
+    "name": "Jabril Salaam",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4ab3e345-dc3d-4651-a4bc-faf750411b41",
+    "name": "Trinnity Ennis",
+    "before": {
+      "jobTitle": null,
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "af3bd752-dd44-470d-89ea-e945cfbb169c",
+    "name": "Cameron Rahman",
+    "before": {
+      "jobTitle": null,
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bf013b5c-10c7-424f-82e2-2b74be1661c0",
+    "name": "Mary Sierra",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d123bf8e-fd9b-4070-abdc-aa1bb53ba989",
+    "name": "Samantha Kaine",
+    "before": {
+      "jobTitle": null,
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "beb7b063-7a74-45ee-ba53-21ec30ef0899",
+    "name": "Phillip Bach",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "593d0007-5acc-48b1-b1da-30eafff16788",
+    "name": "Marvin Pierce",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9ab806f6-d99c-4a64-9ea4-ceac5a04b629",
+    "name": "Crystal Humphrey",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fb78e29c-6560-4374-8bfd-180968b7e532",
+    "name": "Marcie Finney",
+    "before": {
+      "department": "Finance",
+      "officeLocation": null,
+      "managerId": "946725b5-c801-4610-aaa6-1bf754781a3e"
+    }
+  },
+  {
+    "entra_id": "ef247393-cdd2-4bcb-9d9b-94bf06653a69",
+    "name": "Hollie Day",
+    "before": {
+      "jobTitle": null,
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f9977e64-f2ea-497f-beae-a4b14e03e026",
+    "name": "Kelly Godwin",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b0585151-58c8-48cc-9dea-6573a90ebd99",
+    "name": "Micah Motz",
+    "before": {
+      "jobTitle": null,
+      "department": "Route 62",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ada8cca4-f689-453f-b8e6-8a8a12dba378",
+    "name": "LaMar Stewart",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "52fc14c3-8f97-4f5c-aab2-872381c39f69",
+    "name": "Denise Morris",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a9745f98-7dfa-4c16-a8e4-40b8e6f79d8e",
+    "name": "Kayla Peoples",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a6c44bc2-2e8f-4d3d-bfa9-cb35e8551a69",
+    "name": "Anna Johnson",
+    "before": {
+      "jobTitle": null,
+      "department": "Tanglewood ADC",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8f4aa183-89ee-49aa-906f-df58fbf0e1d2",
+    "name": "Dawn Hutchison",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "29ae952f-cba1-4f0b-9873-ba137143be83",
+    "name": "Tyler Trammell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "29ac9559-4c87-4f9d-889f-bdab7cb2a0a8",
+    "name": "Barbara Hritz",
+    "before": {
+      "jobTitle": null,
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ba92c964-9973-40fc-b547-372f9ff2047e",
+    "name": "Michael Barr",
+    "before": {
+      "jobTitle": null,
+      "department": "New Philly",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a4ba880f-a94f-4321-a76e-50eb5f172412",
+    "name": "Kathleen Maurer",
+    "before": {
+      "jobTitle": null,
+      "department": "New Philadelphia",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7508d38b-e9d8-4e90-b34c-3a2f56c84857",
+    "name": "Tiffany Roberts",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8cd88942-9c4f-4260-947c-520c237a01a5",
+    "name": "Jeannine Stansell",
+    "before": {
+      "jobTitle": null,
+      "department": "Westlake Bookstore",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bf19449b-8fb2-47d7-b273-a6d567e7d860",
+    "name": "Nicole Ashmore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "174f0d31-3717-430c-8f08-17944cf0ab2c",
+    "name": "Laura Klendworth",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bc38bbf3-4a8c-4239-bb8c-9d9dfdf5b924",
+    "name": "Elias Raymundo-Donahoe",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fd4ed726-6089-464b-a69d-1e8359e283cb",
+    "name": "Kathryn Sardina",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4950678b-8272-41bb-8fa0-326f3c886079",
+    "name": "Tyson Voss",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d5d5bae1-39b6-406e-a5cf-d958a1e562f2",
+    "name": "Bailey Piatt",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ac8a8d12-9e1a-4fb9-ba30-e80a970b5eee",
+    "name": "Todd Lindsay",
+    "before": {
+      "jobTitle": null,
+      "department": "Driver",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d425227b-c211-4847-ba91-02af3e818d98",
+    "name": "Aime Stokowski",
+    "before": {
+      "jobTitle": "Snow Rd Store Manager",
+      "department": null,
+      "officeLocation": "Snow Rd",
+      "managerId": "f233ba4c-a3ee-41a2-b109-561a1ff769ed"
+    }
+  },
+  {
+    "entra_id": "2dfb518d-960f-41bc-9a9f-41f85bc785ce",
+    "name": "Miguel Catalan",
+    "before": {
+      "jobTitle": null,
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6cc78935-f9a4-4cc7-bc08-dc71af011c51",
+    "name": "Annette White",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "454bbe30-593b-4218-9734-242a06c148c5",
+    "name": "Charisse Klink",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "467938f6-7c3f-4ec0-aba7-022e2baa8e01",
+    "name": "Paul Brest",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8854b8a9-ce7d-46ea-b953-e7f6953b3250",
+    "name": "Kathleen Brown",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3e493f3e-0d21-4725-ad7d-63ae0008396b",
+    "name": "Elijah Laboy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5e87ad71-0afc-4605-9b52-d1d29ff0af0d",
+    "name": "Kathleen Kidgell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9324a91b-e512-47d0-9b96-e94aa9186a22",
+    "name": "Emily Thompson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "02e5bb32-3e8d-4a6e-b26c-071ee46eb6a3",
+    "name": "Kelly Bielanski",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5562bbd0-37cd-4495-8df3-b89293651b41",
+    "name": "Sara Weber",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ade7114f-e8af-4589-943b-7c7e5ec14be9",
+    "name": "Natalie Spang",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "26db92be-75a7-44db-9ffa-4e03d602c938",
+    "name": "William Hoskins",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "731059b3-3186-4272-b94d-79414dc87d68",
+    "name": "Brian Ferguson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c69b1bb5-431d-4fc8-9cb9-ba94f9679d9f",
+    "name": "Lisa Peters",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "91965dca-4420-44d4-8e27-6b18684f3e80",
+    "name": "Michael Hall",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "29a23938-f0f6-44d4-b30c-088269f92413",
+    "name": "Ronald Steeg Jr",
+    "before": {
+      "department": "Perry ",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1c6ae0b5-cc94-4cd4-a409-35f27ef0b6ff",
+    "name": "Ridial Ndiaye",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4e144c96-be2c-4234-a6c8-1269a9750c67",
+    "name": "Luci Kurka",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8cd7fee5-b1d8-49f7-a267-a0a4800b941e",
+    "name": "Asireanna Reynolds",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c7c3c408-e49d-4b86-a017-884b647b481b",
+    "name": "Kasumi Fujimoto",
+    "before": {
+      "jobTitle": null,
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c62f8c08-ca2e-4a71-a2cd-bd71340a5d26",
+    "name": "Elaine Horne",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5f5ceb3b-22de-4588-83bf-4757eb561358",
+    "name": "Charlene Kennedy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "524ed186-411b-4035-a9c6-b993a774b389",
+    "name": "Michael Ferguson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bfbd7ab5-3864-4788-819c-4bca10710cfd",
+    "name": "Paige Link",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fb28f9ba-0297-408c-8259-0a5aef71338e",
+    "name": "Steven Morgan",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0a78e68b-dd94-43bf-bff2-58c80908d675",
+    "name": "Tallulah Kennedy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "feca71a4-432a-4183-8eb7-f19f7d550a6b",
+    "name": "David Yuhanick",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "86c39216-dc90-4c10-b10c-5a5a3f968247",
+    "name": "Heather Sanders",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7a902685-e788-471f-827f-8ca3456f8a56",
+    "name": "James Sayre",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8f4f53de-53cc-47c4-9877-22d99f5e78b9",
+    "name": "Shirley Lawrence",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ef93c3a8-9a2f-4a6f-b0d1-27b6137e8113",
+    "name": "Carolyn Kilpatrick",
+    "before": {
+      "department": "Gordon Square",
+      "officeLocation": null,
+      "managerId": "f233ba4c-a3ee-41a2-b109-561a1ff769ed"
+    }
+  },
+  {
+    "entra_id": "c1a564c2-1068-4485-b85c-4783d63ce8d5",
+    "name": "Dillon Springer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e8cdf5de-9384-4e1e-90c9-02315847983d",
+    "name": "Aleigha Angus",
+    "before": {
+      "jobTitle": null,
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "83da1ea7-ded0-407c-bfec-37851ceaba1a",
+    "name": "Joelle Berresford",
+    "before": {
+      "jobTitle": null,
+      "department": "Gordon Square",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "64360d0a-40fd-4830-8c1e-9c6913e884cd",
+    "name": "Victoria Pope",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "833092cf-f44d-4157-b696-b8f290fe10f8",
+    "name": "Clishina Tyner",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c77c2dea-f3d8-4fc3-867b-ffb209ab9faa",
+    "name": "Connor McCurdy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c02e19d4-be13-41c2-9e37-86e7c5972d77",
+    "name": "Nancy Bauer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "65434d6e-fd18-462f-9535-3f9a92164519",
+    "name": "Scott Covell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a2c0e083-28d0-466b-a4c4-472facc0ab75",
+    "name": "Ahmad Diggins",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "29ab86ec-c02a-4d9c-bc84-9aae2d922037",
+    "name": "Christine Gore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "74ead34c-3124-44a2-9cdc-b900c815d952",
+    "name": "Malik Jones",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d3d031e5-e8ad-4442-91ed-72da933b37e7",
+    "name": "Margaret Kobus",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4d3bddc4-08f3-46c3-b5d1-f66cfdf928e0",
+    "name": "Anthony Yuko",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "aa87b648-1c39-4aa2-8c29-e511b80b215a",
+    "name": "Breanna Cremeans",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3b51fab8-a95a-4402-99fa-5a8bd5db6046",
+    "name": "Curran Browne",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2d7d2f9a-43ec-4c6c-b6c1-90586928d30f",
+    "name": "Kenneth Dillard",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "abeb00a2-0810-417f-82fc-c0f572661c28",
+    "name": "Madonna Gonzalez",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "98f1bd0a-466e-4757-8c71-0fadb876d2cf",
+    "name": "Ranyah Lescano",
+    "before": {
+      "jobTitle": null,
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bfbe89d6-f248-4aaa-a928-49ec68bed1ba",
+    "name": "Vincent Catalano",
+    "before": {
+      "jobTitle": null,
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b7a95a21-86f3-4ead-af5c-3964ca8e88a7",
+    "name": "Dustin Boleware",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e3cd8996-b55c-420c-b0de-26732e6dd439",
+    "name": "Jennifer Banas",
+    "before": {
+      "department": "North Olmsted Store",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a966e1f1-404a-4f99-800f-64004ed27f43",
+    "name": "Brandy Czup",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "64a46b8e-337f-4571-bd63-a38732559871",
+    "name": "Allison Swogger",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4a0b39f3-2203-445a-97ca-5ddba5cf8d1c",
+    "name": "Barbara Polen",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "45b8124d-9e6b-4d2f-a022-26672327d7d7",
+    "name": "Joey Barbera",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "07e15927-61c5-40c3-9cae-fc03aefd389e",
+    "name": "Abigail Malarney",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e620affd-2a29-460d-b895-c69fcbdf41c9",
+    "name": "Delores Martell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "068c86d5-32f6-49af-8ae4-b1d158d2ce29",
+    "name": "Seven Olds",
+    "before": {
+      "jobTitle": null,
+      "department": "Transportation blvd",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7fe70148-812c-4768-85a1-0a01b81b74eb",
+    "name": "Sarah Legan",
+    "before": {
+      "jobTitle": null,
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c80a0e91-4963-4d8e-8324-8aa0ece9a5a7",
+    "name": "Stephanie Stewart",
+    "before": {
+      "jobTitle": null,
+      "department": "Perry",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9a3e9f66-ac94-4f4a-8f00-22e1a5d0bf2b",
+    "name": "Patricia Knittle",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "975fa194-8949-4d1d-b6d1-28fbd15de5a2",
+    "name": "Dominick Moree",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f068f420-80c6-4e3d-b8b2-57ec6b048aa6",
+    "name": "James Kinder",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "911d8a78-aa61-4652-acd6-fbe21d9e0cf0",
+    "name": "Michael Mierzejewski",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a0eb063c-4ccb-4334-8953-c0babff9d2ea",
+    "name": "Melissa Booth",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ad9eab34-c4fa-4132-a5db-8d35b2bcb9f1",
+    "name": "Stacy Stack",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b3d0767c-97fd-4e91-9f4a-2a43157e8fec",
+    "name": "Angel Cruz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f9b6d844-6501-45f8-a8d9-8d1919dbe2fb",
+    "name": "Andrew Fowler",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cee24bbe-c118-4f8a-8f6f-4e227a904bec",
+    "name": "Savanna Swank",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "12b63be3-99ce-4f5d-b468-a1351dd4c744",
+    "name": "Dominic Piccari",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2a5ba326-ccf6-4cc1-a494-31341fd258ac",
+    "name": "Candice Rice",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5efed444-5226-4442-ab1f-2b21b844d7e4",
+    "name": "Alleyie Rose",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "de5fb0d4-538f-477c-96fe-e4a458353b78",
+    "name": "Linda Mims",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6cf3ca1b-39a6-46d6-9c3c-46cfa19e54e5",
+    "name": "John Farnsworth",
+    "before": {
+      "jobTitle": null,
+      "department": "Snow road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1c10d71f-c296-4642-a5a5-85f7b7cf6d2b",
+    "name": "Nikolas Clark",
+    "before": {
+      "jobTitle": null,
+      "department": "Snow road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1a2e5398-3346-43c7-8aef-aa434a98f168",
+    "name": "Janesa Furbee",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": "5f1e28b1-46a6-4036-9c37-0f45c69b97e1"
+    }
+  },
+  {
+    "entra_id": "b2b095b5-b011-4860-9ae7-48845f260d76",
+    "name": "Amy Poole",
+    "before": {
+      "jobTitle": null,
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "53e79b0e-26e0-455e-a17e-1c3832ed8e50",
+    "name": "Angel Rodriguez",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "27840ff2-90b3-4dfd-a8ff-b127fd4a5443",
+    "name": "Todd Stout",
+    "before": {
+      "jobTitle": null,
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "54d88485-7fd2-4f34-af90-5c370e414c05",
+    "name": "Jacob Sanders",
+    "before": {
+      "jobTitle": null,
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0b0864b0-4fac-43e4-b0e3-aec561ba600c",
+    "name": "Rebecca Bores",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a4f9919c-e0c8-4260-af37-f9aab1bc9c1d",
+    "name": "Jaylee Jefferson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0741440c-3acb-4509-9df7-37cf832d43d3",
+    "name": "Donald Jones",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cba78b71-f814-4f1a-bd98-ec5b75bf7fea",
+    "name": "Robin Fisher",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "39998305-ae9b-4ba4-8232-a5def530b56c",
+    "name": "Kylen Moore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d49f203a-9e9e-490a-bbf4-df9ec9b3fd98",
+    "name": "Sandra Marek",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d0ff24f3-cec5-4187-acee-e466239a3deb",
+    "name": "Gregory Edelman",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "85b93ce4-95f2-4de7-ab9f-4d9990fb1fa1",
+    "name": "David Clark",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4372256d-60ec-46c2-9197-f518728f063b",
+    "name": "Rebecca Perez",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "68b9db5c-56c4-4b47-bb70-afbaddc0db96",
+    "name": "Tai-Sheana Crockett",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "28256db7-61a3-4500-97fb-ade3b99ad392",
+    "name": "Joseph Green",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "24824845-5d30-4fac-b2f2-42c89b504563",
+    "name": "Bruce Holmes",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "25d58431-977c-4204-9ccd-3b7b5de170dd",
+    "name": "Amanda Mason",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "162ea7a1-afcd-4542-b4e3-3c002c25625e",
+    "name": "Hailee Horner",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "855564b6-7dba-49ef-96f5-7c514bf46026",
+    "name": "Jaylan Johnson",
+    "before": {
+      "jobTitle": null,
+      "department": "University",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3f9bf917-f83e-438c-9bf4-10fb5a34d128",
+    "name": "Renna Ng",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "70afc917-d49d-48b4-a24e-d1b7538d6093",
+    "name": "Benjamin Haring",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fc714280-e82a-42a7-8b58-33f289662a55",
+    "name": "Jennifer Little",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3958324f-c865-4c13-a81e-d06485a98f97",
+    "name": "Kimberly Robinson",
+    "before": {
+      "jobTitle": null,
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "71ed847f-86dd-49b2-ba0c-80cca1688a62",
+    "name": "Danijela Mosley",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7f7d48af-35eb-475f-a022-dee4a141e59f",
+    "name": "Juana Reyes",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9f4249e7-c545-4a81-99aa-72dea5e1e74a",
+    "name": "Kylie Kemp",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6c23a0d6-7302-48cf-a0f9-27b0e0fe7c7b",
+    "name": "Eavery-Everette Leach",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bab1759a-80d4-4528-ae7d-06785551869c",
+    "name": "Reba Voudrie",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "02e27ce0-dfdb-4974-958f-ee7a3f0c451b",
+    "name": "Cathleen Campbell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ad66dc30-bf51-4635-871a-00f810481f1e",
+    "name": "Leanna Thompson",
+    "before": {
+      "jobTitle": null,
+      "department": "Route 62",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2e39759e-1d89-4d0e-ad83-1aecfba0daab",
+    "name": "Jeremy Greenfield",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "80d5b21c-bb16-4ec4-a3eb-fceeffe291bd",
+    "name": "Kaitlyn Moody",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0937ab9f-9eb7-4841-bdff-4d9dd674be37",
+    "name": "Jose Sanchez",
+    "before": {
+      "jobTitle": null,
+      "department": "Chesterland ADC",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3c031860-ba96-4854-a18c-8ea7cbfec8ee",
+    "name": "Kayla Morgan",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bea97432-2a80-4f53-8072-4318306cfb81",
+    "name": "Riley Tice",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7719317a-1e96-462a-9daf-e6ca715e1060",
+    "name": "Hannah Benesh",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2876c660-2aa1-43fe-9c7f-d840b95b8f68",
+    "name": "Grayson Boyles",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "824b4004-69ff-45bf-8a88-bf98e16b4c9f",
+    "name": "Douglas Ramsey",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c414cfd6-2f0f-473e-a6df-98a91cc6d4c4",
+    "name": "Nicole Koshel",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "276ade24-2e16-4e9e-acda-200bc3bd4dc6",
+    "name": "Michelle Randolph",
+    "before": {
+      "jobTitle": null,
+      "department": "Chesterland ADC ",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "34380dbb-e98b-49a1-abe7-dc21aa6bed72",
+    "name": "Monte Poston",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Outlet",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c00474c5-0a70-40be-9a1e-c1d656cffae0",
+    "name": "Lakiyah Benifield",
+    "before": {
+      "jobTitle": null,
+      "department": "University",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5efc01bf-3eea-4e7d-92ec-2a0002946494",
+    "name": "Rafferty Richards",
+    "before": {
+      "jobTitle": null,
+      "department": "Lyndhurst ADC",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "442a2d51-f8a0-4104-969f-def4e7577b7c",
+    "name": "Charles Dietz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6269c7c4-bf16-4884-a5c7-894387ba4a6a",
+    "name": "Alex Mangels",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3fbd0250-f034-464f-8ea4-6529a6c33f2f",
+    "name": "Lolita Thomas",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c9d1f6e3-aef8-443a-81da-cf0169881a9b",
+    "name": "Brandi Shaw",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "55d480c9-e865-47fb-b397-e071bbc4f5d6",
+    "name": "Joshua Frazier",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fe1efa85-d332-4f22-b656-cb8c8cd403d0",
+    "name": "Derek Kelly",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "df301611-cbf6-4d40-91d3-b4e0936939ac",
+    "name": "Destanee Boles",
+    "before": {
+      "jobTitle": null,
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3cc96da9-8ee6-4ff6-918b-44eb4adba012",
+    "name": "Staci Hahlen",
+    "before": {
+      "jobTitle": null,
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "116b44e3-c9dc-47af-8943-4930f8bd9850",
+    "name": "Mary Barth",
+    "before": {
+      "jobTitle": null,
+      "department": "Snow road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4ae651a9-a5fc-4d51-ab60-d3b8e57e9431",
+    "name": "Bryce Brewster",
+    "before": {
+      "jobTitle": null,
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1d8aa063-dbe7-4bf6-8dcd-1de71caad322",
+    "name": "Matthew Dejean",
+    "before": {
+      "jobTitle": null,
+      "department": "Transportation blvd",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "55fbd498-97ff-4a98-ae99-2543aaea6a3b",
+    "name": "Nicholas Kostura",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9c876ee3-ceed-43d3-ab47-3b4acbe24b45",
+    "name": "Eric Baird",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "33738bbb-a6b1-4950-9291-4d1d9e611966",
+    "name": "Devon Watson",
+    "before": {
+      "jobTitle": null,
+      "department": "Mayfield",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3887cf6d-e726-4cf3-a910-563f009f2bae",
+    "name": "James Thain",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "da77cb38-b8d6-422d-8f44-5c791aaf567c",
+    "name": "Sameerah Sharrieff",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4e2f4c27-b190-4561-9d8b-7461ce5d9983",
+    "name": "Luke Hudgins",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0a61dbac-249c-4835-bcc0-aa11cd2067db",
+    "name": "Gretalyn Beck",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "47e3bf93-0614-46a3-ac79-88e63ccb26bd",
+    "name": "Denise Lester",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7364fc36-d6f7-4d2e-a360-1b727128a606",
+    "name": "Johnathan Johnson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e4c00936-7dce-4694-91dd-6466e7138c18",
+    "name": "Lourdes Ortiz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ca3cf56c-aa01-437b-ba5e-12b37f0f74f1",
+    "name": "Tracey Mullin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "79bee0a3-56ee-46f9-9397-b37b6ca7fff5",
+    "name": "Rodney Chandler",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6defed6c-5c0f-4e53-aa12-c88a8d9a69aa",
+    "name": "Riley Murawski",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "05a17fcf-754e-45d4-a5f5-7fda0ef11885",
+    "name": "China Harris",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "91312883-c258-4691-896c-23af69295346",
+    "name": "Hayden Brenner",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1b245660-189e-4d07-85e7-eb86d5fd52db",
+    "name": "Shawna Busta",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8c5dbba9-541c-4bc3-ab1e-f2db5605f84e",
+    "name": "Tana Coleman",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "aa0da086-d1a8-4451-94b0-dd54bbe985dd",
+    "name": "Sidney Roper",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "99399137-5e99-49b2-9b25-1912963f36bd",
+    "name": "Cinthya Mares",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "34f1efee-e1a0-41ab-83b9-02a862c277f9",
+    "name": "Abigail Grady",
+    "before": {
+      "jobTitle": null,
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a73dae2d-044d-46e3-83b7-e0dd1dfb4d34",
+    "name": "Olivia Cardinale",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "86602dca-0cae-41ad-a1d6-6552aec5a5e0",
+    "name": "David Triplett",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7df3db4a-5295-4976-a07d-ed9993e900a1",
+    "name": "Theresa Dedrick",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3f552ca0-1cc8-4532-811e-b405b243c559",
+    "name": "Mark Clemson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "576a5bc4-2814-439f-b52e-ee58cfe88bbc",
+    "name": "Angela Simmons",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "abbcd86a-8743-45ad-ad98-2411db7b5b5c",
+    "name": "Jodi Boron",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d7eb606f-ce86-4bee-b3cd-80698da24bde",
+    "name": "Anthony Mears",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a8ec1840-6fbe-46f8-93d3-6dac6b02ecfa",
+    "name": "Madelyn Phillips",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "53d46908-fb8e-4c6e-892c-265b36faa985",
+    "name": "Aiden Green",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c9795578-e3bb-4508-866e-ac3eabb033f8",
+    "name": "Ruth Weil",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "72f225a7-0ad3-4ed4-87d9-739809a6868d",
+    "name": "Vanessa Smith",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b3e84433-7317-4618-a704-5e0abf8e43dc",
+    "name": "Caleb Glenn",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "98b39972-c26e-4147-9705-f905666a8112",
+    "name": "Courtney Shahan",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a4697fc4-c535-4381-8409-cbdf07dd8576",
+    "name": "Charles Alford Jr",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4e7cfe3e-cb45-49d3-baec-b6126c331b0e",
+    "name": "Serenity Edwards",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c7471f65-d06b-4b6b-9ae8-b4644269aeea",
+    "name": "Melissa Coultas",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "93a8f805-478e-417d-89b3-24162cb966dc",
+    "name": "Annette Holder",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4cf19bd9-46f9-459f-8bb0-ed864d93960b",
+    "name": "Audrey Noll",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7322042e-aa0f-4ade-ba47-9ac1f8ef5c71",
+    "name": "Kimberly Cernansky",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5df90356-fb77-41a0-bdc8-685c865f22b8",
+    "name": "Susan Brown",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f44575c3-1630-4a94-a197-ed9547fa9985",
+    "name": "Andrew Burwell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e15a84dd-cd5a-4629-8fa4-3a59f47f7875",
+    "name": "Colin Christensen",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3b80903f-5224-4bd2-9b31-b8f028eea9b5",
+    "name": "Elizabeth Hayford",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f1e47f36-4b66-4749-8317-8f805e3549dc",
+    "name": "Ashlie Lamp",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6c5a9ea6-e5c8-4470-be20-8fcb146e841e",
+    "name": "Jessica Lance",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e194704e-1b5b-4c2d-81e8-e333b78dd3f6",
+    "name": "Shelley Nutter",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4ac197c9-b77c-4536-a155-20bef726b2af",
+    "name": "Marissa Cooney",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "43fb328b-d636-410f-8a33-abde52d9d922",
+    "name": "Kimberly Labriola",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b063c59f-f44b-4dc6-b12c-7cd3dff4adfe",
+    "name": "Meredith Skotschir",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4f257a1c-ba03-4197-b0c5-0c7b2cecc8db",
+    "name": "Sally Sutterfield",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f013970a-e0c9-4ca1-8df1-a8195537a7b9",
+    "name": "Erika Wood",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e16d284c-0255-4438-918e-ed9f1611a088",
+    "name": "Wendy Kimble",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "94d21a8b-59ad-4992-a137-bb8bd0a6f57f",
+    "name": "Rachel Pavelko",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3304141e-d3c2-44fb-aae2-d27490ef95b4",
+    "name": "Seandra Walker",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "dd212316-d964-4151-ba37-9ab6a8a0daa7",
+    "name": "Jennifer Parmenter",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9701d058-8829-4adc-824e-04240272eb95",
+    "name": "Mareena Atalla",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "667c2bfb-a366-4c0b-8ab7-1f1a063b2acf",
+    "name": "Marie Barkheimer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "12d389d5-f959-4bff-a6e6-4aee7be824b0",
+    "name": "LaMonda Carter",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "596efc2e-3254-4a95-9010-ebbc32daf787",
+    "name": "Anthony D'Antonio",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ab617118-ea0c-4f73-941e-0d88d47a48af",
+    "name": "Diana Diaz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0c271a55-2cc6-41c2-83ae-ca45639d139c",
+    "name": "Norman Diveley",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c79d46ec-d4b9-44e7-8532-67c6c3d8f1bf",
+    "name": "Molly Fischer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "25097398-16a2-4167-b712-86d84fdfe4fc",
+    "name": "Tara Flakes",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "25fc70e0-4416-44cb-8b06-c3eb9a982f0e",
+    "name": "Chad Green",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2a2cd09e-2211-41c1-b469-e6cc3f8430e2",
+    "name": "Charissa Howie",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5cf58569-1850-4c89-9c7b-2fee8fcbae54",
+    "name": "Carrie Jones",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6bcc61f2-da85-4f9b-b9ab-c6e9e6815935",
+    "name": "Rochelle King",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7d73ef90-ac27-4cac-8502-0767878988c1",
+    "name": "Mary Kreitz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "412b94c8-1be2-4794-9a71-c25d9a4da0bc",
+    "name": "Jessica Kurz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1f358750-1e77-40ea-9155-ccb1ad48c09c",
+    "name": "Louis LaGuardia",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8b532a1b-ae85-421a-810c-6a635b07410b",
+    "name": "Tiffany Martin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8bf38ffe-05b7-4d07-810a-301c655d62d1",
+    "name": "Victoria Medla",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9601e8d1-6bae-4ad7-9022-9d30f4c9ec4c",
+    "name": "Daniel Mucci",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7c527f5c-a687-4d29-af94-d6ae6a1419eb",
+    "name": "Rosina Muoio",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2a54337b-0977-4104-aa34-2fd17429aa18",
+    "name": "Samantha Newman",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2e3a5089-89e1-44e3-b37a-e34c2acacf47",
+    "name": "Amber Nickol",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d963fe32-9cf6-40d1-b047-c0efc4b14ee6",
+    "name": "Riley Pullen",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6071794a-ce26-4262-a59f-41fa711bb0bf",
+    "name": "Hilary Sircus",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4a3bb355-3b49-483b-82c0-6adb397769a9",
+    "name": "Aundrea Stedman",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "57cf446e-62c6-47db-bd9d-e29cd44784f9",
+    "name": "Mary Taylor",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "06a0d85a-3402-49ce-860c-771de7be23cb",
+    "name": "Brooke Whittaker",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d5127618-ea6b-448d-abf8-bee7ac56fa63",
+    "name": "Lindsay Wootton",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "66e4225a-e211-4b73-ba1a-207016f9d159",
+    "name": "Lorna Wright",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "09fba499-0308-453c-ae4a-7a5befae6983",
+    "name": "Erin Yancey",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "89aaba38-47b7-4f56-9aa7-42f76f51ec08",
+    "name": "Julianna Calabrese",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "eb982895-d33e-453c-a016-af563fc66657",
+    "name": "Emma Farkas",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8eadc12c-4a9d-4745-b4a5-1659298363c7",
+    "name": "Amy Griffiths",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6f2c455d-273f-4ff7-b922-aa20ad2544bd",
+    "name": "Paula Washington",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1c0e03e1-dc4f-4005-80a1-5b6376e9ecdf",
+    "name": "Thomas Trachsel",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "921cee1f-a5ba-4836-b1a8-337f6b26a9fd",
+    "name": "Allison Skotschir",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7b9af61d-7466-43e0-bf88-8d6122ce0862",
+    "name": "DeLisa Seals",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6db63bf2-7b1c-414e-b973-254d1eaf5742",
+    "name": "Rebecca Puett",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a7d94798-ad16-4842-982f-f79311abead1",
+    "name": "Chandra Piatt",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f36b59c4-3877-4d97-84bb-725ba34b3c21",
+    "name": "Maria Moore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "64320093-ca5c-46c0-b959-a580460dee22",
+    "name": "Sarah Mogorovic",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1ceed5ab-1fdc-4b4c-a275-23c92bb98f0c",
+    "name": "London Minor",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "426b5797-2f33-4974-a03e-dd2b4bca22f9",
+    "name": "Micaela Michalk",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "91c61cc5-c7bd-4ccf-9a22-eb8e3a713dc5",
+    "name": "Bianca Means",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c236819a-50dc-49d5-9a6d-4268a4a2a410",
+    "name": "Emily McMahon",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "26517421-abd9-476e-af51-588376d1e69e",
+    "name": "Catherine McGowan",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b82b35cb-afb0-4bb1-9466-2f39de137760",
+    "name": "Felicia Mazzei",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5b65a47e-6cbb-4d98-98cc-2bf1de6bd811",
+    "name": "Avery Manse",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f668d98b-af7d-4086-8403-0ec482f749f3",
+    "name": "Moriah Howes",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "74538a13-212b-487d-93f2-9cfc703fc2cc",
+    "name": "Mackenzie Horner",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "dbcb7896-4a85-496d-9a19-c42e1bb491fe",
+    "name": "Addyson Hodgekin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0ad41054-3e63-42cf-b780-034104e93b28",
+    "name": "Christine Hilliard",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9f62c8d3-0893-4f33-91a8-bc26031adfb2",
+    "name": "Jessie Hawk",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "76ea9e8c-6927-4e47-a764-969e539f4125",
+    "name": "Mira Grcevich",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "61cc1545-b1da-44cf-8acf-152f948403fc",
+    "name": "Miriam Gortney",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9b67d4f5-9697-4038-a662-d781c7d79d52",
+    "name": "Lawrence Faulk",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4b2c281c-0019-4fc5-b829-39a41c765e3c",
+    "name": "Taylor Boschini",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "037ea2e2-a8c4-413e-a4a2-cf5cbdf61d00",
+    "name": "Michelle Bishop",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d4f11931-cbf7-4d7e-a4c2-f7104d79bdec",
+    "name": "Samantha Bragg",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f02777c6-5246-4847-87d8-fa72770bac55",
+    "name": "Melinda Toth",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cc7b5f0f-661b-4b47-8b92-5c4bf53a03af",
+    "name": "Maggie Bockoven",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a0812907-e593-4729-9cb5-d00936213e66",
+    "name": "Angela Crace",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "64b14bfe-3675-4481-9b26-d8233821890f",
+    "name": "Cynthia Ha",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b1f9c8cb-11fd-4f23-9b89-7a1583169423",
+    "name": "Traci Foley",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e4a9aeb4-599e-4e06-aa64-1dbf8eeaf974",
+    "name": "Faith Briscoe",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e24f46ca-a640-43b2-8690-f37018ca5889",
+    "name": "Jodi Fellers",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1996fd58-efbc-44a9-bf0b-b6e7856faab6",
+    "name": "Nicole Meeker",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e964ee62-32eb-4f69-95ba-44f79d74b687",
+    "name": "Kevin Stokes",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4a1cb74a-3a5a-4998-b214-e996a04ac95f",
+    "name": "Abigial Toporowsky",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fa92a7c9-99be-43fd-bcf6-d62716bfc278",
+    "name": "Benjamin Tibaldi",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f1d910bf-aba8-43a1-a64f-120415440600",
+    "name": "Ione Bach",
+    "before": {
+      "jobTitle": null,
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1da53c7a-d082-42c0-9303-ec8e0500aa16",
+    "name": "Sydney Harrison",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d770ff8d-6ab7-4bc0-ac85-22b31a8d9d78",
+    "name": "Envyonna Maddox",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "10c035aa-d736-4c49-b9c1-b46a326ce0e5",
+    "name": "Alayna Marks",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "30419fd7-b7ef-436a-806f-9e3588f250ea",
+    "name": "Robert Drotleff",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "739c754d-1466-4ba3-89ac-e1a1e1f2afc4",
+    "name": "Ryan Knapp",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "881b6c74-1cc1-4aed-9dcd-b5d998de3b56",
+    "name": "Raymond Perrenoud",
+    "before": {
+      "jobTitle": null,
+      "department": "Box Truck Driver",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cd0ad965-b5c5-432d-9ac2-08e8931941b2",
+    "name": "Jayme Phaphouvaninh",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fb4b43a4-f547-4ec0-ac46-87bed61d1bcc",
+    "name": "Angela Hill",
+    "before": {
+      "jobTitle": null,
+      "department": "Central Processing",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4ceee123-b2dd-4187-8d2d-f2e3b91f2b0f",
+    "name": "Kathleen Marshall",
+    "before": {
+      "jobTitle": null,
+      "department": "Central Processing",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9e5b7c32-4681-4176-b914-b4ba1db89b07",
+    "name": "Yanitza Hernandez-Velez",
+    "before": {
+      "jobTitle": null,
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "02b89c0d-9af3-4686-9086-e68765ab9dec",
+    "name": "Zoey Viruet",
+    "before": {
+      "jobTitle": null,
+      "department": "Chardon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6c76df3d-5cc7-44f3-befd-ec1e21a36d71",
+    "name": "Jupiter Dean",
+    "before": {
+      "jobTitle": null,
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e9e603e6-2dc6-4855-925c-f23cc546ac17",
+    "name": "Tyshaun Brewer",
+    "before": {
+      "jobTitle": null,
+      "department": "eBooks",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5395da57-919a-4404-8855-35b8330474d7",
+    "name": "Caitlin Egan",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5b895f93-60a8-4ec8-9ab2-aa1de70481d1",
+    "name": "Pamela Jones",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "01112ace-efc5-4990-94f8-0e68e0c0e28e",
+    "name": "John McFarland",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "bff53162-f9a5-4d0e-a343-df1da1a9966f",
+    "name": "Amanda Kunzi",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8389ffc3-eccc-4184-97e1-72e74e7ca10e",
+    "name": "Robert Williams",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "293ba191-61db-4fb6-9f42-f8ef9a027045",
+    "name": "Tristen Reid",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6197eb50-68e3-4c1d-8dbb-7f2522ed0e7a",
+    "name": "Lynne Zucker",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0fdca00f-1b81-4f3e-a1d3-c315619ee526",
+    "name": "Calin McCarthy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "57b7deca-e8f3-4e5b-8bfa-1f9b91545ea9",
+    "name": "Thomas Phillips",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fb339026-096f-441b-8fe1-4251f3aa9834",
+    "name": "Paige Schory",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9cd82593-aa2a-4c81-86ef-c07fa19f8903",
+    "name": "Veronica James",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "603bb1de-534d-4d59-b1fd-6f09d4e3a5ef",
+    "name": "Veira Wizy",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2eba4eed-0411-47ae-8f8a-6519e7c6ea5a",
+    "name": "Megan Cox",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5c90b7fe-e943-4579-8730-0a813dcb8f61",
+    "name": "Lucas Merrill",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5586c160-98f3-49ba-bdf5-4b9191c63574",
+    "name": "Jeffery Elliott",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8df0ef56-df3a-4428-81ce-ebc2ce45b740",
+    "name": "Rikyiah Glen",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "50272344-cf23-491d-a318-c56192e5eb11",
+    "name": "Howard Sterrett",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "aba9db98-02b1-4991-901b-9c82459dcecc",
+    "name": "Sheri Webster",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "021d7602-83bf-4257-8bf0-640427d8eda8",
+    "name": "Earl Murton",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "50fdced9-123f-4424-a946-07baa5b1d950",
+    "name": "Alivia Winemiller",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "83a95fcf-98f9-4e46-9b99-db7351447e8a",
+    "name": "De'Andre York",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "48ecd8bc-2a69-4b1e-930b-e6898363422e",
+    "name": "Spencer Coss",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b6318e08-cf22-4af6-aa68-7da19cd5308c",
+    "name": "Alexander Woodward",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c0443dae-a36f-4243-b4d7-910c6dde1b32",
+    "name": "Robert Moses",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "40bd0955-be15-4e89-babf-7aa790cd59ad",
+    "name": "Ashton Kinsey",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9c78ab9b-a3ec-4bf7-8f59-f2d678f0355b",
+    "name": "Evangeline Wright",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cd22ca7c-adae-4c7e-9f31-ebd2e00b80c3",
+    "name": "Samantha Roth",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b544e858-2202-4ebb-bfa0-dd7d5d6cd0c9",
+    "name": "India Beard",
+    "before": {
+      "jobTitle": null,
+      "department": "Gordon Square",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2c32fc54-919f-4ae8-aa9c-495f77fda40c",
+    "name": "Stephen Ekker",
+    "before": {
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": "45131f6b-e846-487a-9c83-1e072768902c"
+    }
+  },
+  {
+    "entra_id": "01f963da-eb46-4cbb-8a97-bca6f7a9b039",
+    "name": "Amara Mayle",
+    "before": {
+      "jobTitle": null,
+      "department": "Massillon",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fd891753-074b-4ed7-b87c-57281ca6f83f",
+    "name": "Courtney Lewis",
+    "before": {
+      "jobTitle": null,
+      "department": "eComm",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5b747afa-4556-4a17-977c-c8bc92dacc41",
+    "name": "Shane Crawford",
+    "before": {
+      "jobTitle": null,
+      "department": "eComm",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9c3fae56-3236-42bc-a102-188d3267d6e8",
+    "name": "Lashan Stewart",
+    "before": {
+      "jobTitle": null,
+      "department": "Cleveland Warehouse",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b193584a-9c27-4f09-993a-3303ccd7fa38",
+    "name": "Jennifer Kunzi",
+    "before": {
+      "jobTitle": null,
+      "department": "Gordon Square",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f2ace4aa-5162-48b7-864d-6312ee286a89",
+    "name": "Jawan Phillips",
+    "before": {
+      "jobTitle": null,
+      "department": "Transportation blvd",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8238fe56-5043-4be1-a742-a45a501f53c9",
+    "name": "Ava Dowdle",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "60fbff8f-b616-4c5d-a19c-35387878014d",
+    "name": "Jill Sheaks",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a4cb1578-4b75-4709-b3ec-ff41a6cd0baa",
+    "name": "Richard Richardson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9e530973-35a0-4b02-8b3e-10b73b5de915",
+    "name": "Zamari Smith",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ecf54091-2ecf-4383-93d4-5679f42b4421",
+    "name": "Dennis Russ",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f1017a45-3306-4513-8e0b-5814e1db81a9",
+    "name": "Nathaniel Wadian",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "18f95680-1f30-4746-bd38-247ac1cde471",
+    "name": "Ernestina Chavez",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fe4212f1-09af-4caa-9c6c-ef2a36e45821",
+    "name": "Joseph Couts",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2ccf3511-d48b-4075-b2c6-da999a47331b",
+    "name": "Elizabeth Bland",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3be4896a-fff0-4102-a1c7-0eeb54e048cb",
+    "name": "Mekhi Lacey",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1da2a52e-da25-4bcc-8cd8-e3883256f8c3",
+    "name": "Lila Maver",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "91a3b6eb-f3dd-4437-a398-10e2ba1a30fc",
+    "name": "Paula Underwood",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9233e985-1066-439e-8777-9bb4154675c4",
+    "name": "Debra Weber",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "be549328-2274-4dc4-aab0-607159902c2b",
+    "name": "Emily Novagradi",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1f1d598d-7f63-48f0-8c86-d0afd58c0276",
+    "name": "Anthony Jenkins",
+    "before": {
+      "jobTitle": null,
+      "officeLocation": null,
+      "managerId": "aa71cc9b-f01a-49e2-a735-acdb74d0a843"
+    }
+  },
+  {
+    "entra_id": "5177343e-600d-489b-8111-eb56206a47d5",
+    "name": "Jessica Golubski",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "81b181c4-10d0-4587-a96a-90dfe3659edc",
+    "name": "Chy King",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0e85d16d-be53-4f47-a356-4caf92c55770",
+    "name": "Monica Caswell",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0a19ced4-2520-4dc9-a5ec-57b3d0f45ba6",
+    "name": "Alyssa Watkins",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c76f0a41-c330-4883-8dd7-9da49047b538",
+    "name": "Zipporah Moore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b9bcca50-e963-44bc-b516-9d13484fcb8b",
+    "name": "Jaime Keyes",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "52c1978d-9db2-441d-9e4d-ef0c0c40912e",
+    "name": "Brendan Davis",
+    "before": {
+      "jobTitle": null,
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "38eb6706-7e76-4b2d-a7d4-a5cb927df34a",
+    "name": "Debra Laurie",
+    "before": {
+      "jobTitle": null,
+      "department": "Perry",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "1608763d-66dd-4b47-9cf9-47144a8e6b92",
+    "name": "Desean Whitson",
+    "before": {
+      "jobTitle": null,
+      "department": "Mentor",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "aa8f79ee-b9e4-4b88-a723-2b7869d5e023",
+    "name": "Jacquelyn McLaurin",
+    "before": {
+      "jobTitle": null,
+      "department": "Foxboro",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5fb10fb3-05ef-42d4-8ff0-5b8d65b6ed3c",
+    "name": "Andrew Bell",
+    "before": {
+      "jobTitle": null,
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "cc4a875e-b5eb-477c-a213-f1919267a399",
+    "name": "Shamiere Core",
+    "before": {
+      "jobTitle": null,
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "8600038f-f06b-4ad6-a4d1-84d7d7d0ae60",
+    "name": "Bill Walls",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "98d121fe-f547-4338-a190-2d981c02a266",
+    "name": "Dequawn Carroll",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "eeb09ded-f693-422a-9064-8f0f830d9468",
+    "name": "Erin Smith",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "663b0544-4f3c-4ce9-b389-cd1056bc6f11",
+    "name": "Jennifer Ward",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "27ccb6f8-f18c-4b69-ad90-1f6bef70db1e",
+    "name": "Teena Nelson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "018647a5-f389-4622-a6ae-4321242650e7",
+    "name": "Michael Cowx",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c5dc23f6-a905-42f6-8222-52ea9ecb732f",
+    "name": "Tyrone Brown",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "94fca793-7e53-4cc2-999f-56f16e8d1564",
+    "name": "Timothy Moore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "583db1af-d8ea-459c-8f94-95b2fcfcfb17",
+    "name": "Trisha Byers",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "47c538a7-f8db-44d8-a74d-5b01dc179d7c",
+    "name": "Aysia Spruce",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5816a3cc-bd12-4db8-8b74-aad7697bfc60",
+    "name": "Karissa Moore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "afe2c7f1-00e9-40f9-8136-1d2b3759c9bf",
+    "name": "Joeline Sleight",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6fca6f9d-2abf-4515-9de5-719ac75ec41d",
+    "name": "Stormi Weider",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "9ce0b3c4-83cd-401b-b3b1-3cac6e2e6a80",
+    "name": "Janson Maynard",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "339a370f-0906-46d0-8f16-3e10c4d41731",
+    "name": "Gina Wright",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "58f2e883-49af-4d32-9b50-f1b541eb471d",
+    "name": "Lara Artymovich",
+    "before": {
+      "jobTitle": null,
+      "department": "North Canton ",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "89cde153-9224-444e-bbfa-2c7c3a6e2b5e",
+    "name": "Nerissa Gay",
+    "before": {
+      "jobTitle": null,
+      "department": "Transportation Blvd",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e8b4697d-27c8-47b7-b0fa-68aacf74b7c5",
+    "name": "Kelly Stieger",
+    "before": {
+      "jobTitle": null,
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a5e5807a-6a57-40be-91c0-6228f3834fa1",
+    "name": "Mackensy Murphy",
+    "before": {
+      "jobTitle": null,
+      "department": "Wintersville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "effaa0b6-a656-4a4e-8380-38daafb9be47",
+    "name": "Lily Minger",
+    "before": {
+      "jobTitle": null,
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "369e9b03-88ab-4b31-b6aa-18435fe18e68",
+    "name": "Hannah Buhl",
+    "before": {
+      "jobTitle": null,
+      "department": "Route 62",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "67ae2760-3481-4e53-93c4-50b2250696ca",
+    "name": "Tenia Plummer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7cd59f8c-65c4-4eab-82cf-8be6a0b0b56e",
+    "name": "Lisa Consorte",
+    "before": {
+      "jobTitle": null,
+      "department": "Snow Road",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d9c26328-c707-4eca-bdcf-d0c32ced7cf1",
+    "name": "Jeannette Tucker",
+    "before": {
+      "jobTitle": null,
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "552da31c-337f-46ad-9310-95fd4332e508",
+    "name": "Claudia Santos Vargas",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "29d73b8c-3513-4ded-bb09-6f4d7b1ab75a",
+    "name": "Cole Kager",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ff19bbfb-9090-4c11-b41f-36b56f84477a",
+    "name": "Travion Petties",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "24928087-f1e4-4260-bc6d-9ddf055e1797",
+    "name": "Devon Fowler",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f46ed641-5c36-4a03-b931-beb968181421",
+    "name": "Cheryl Strick",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "dc32d218-9bc9-407c-a8f5-5dfcaa3c4461",
+    "name": "Colton Boyd",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "71fa2eff-6f5c-434d-8f7c-1d93e18ad216",
+    "name": "Shyanne Couch",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "141a3d46-30e1-4314-9331-22bc0eed6989",
+    "name": "Kimberley Maurice",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "820077a9-a7cc-4d76-894a-54eba3351f68",
+    "name": "Elliot Allen",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "00386b9a-fa22-4198-8858-8c1d2660ed26",
+    "name": "Vicky Mackrovitch",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5cfb0f59-a5a1-4ddf-ba32-5ce68e570664",
+    "name": "Ameliya Tucker",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "3456e34a-48d9-49b7-a577-ea4fea2ea386",
+    "name": "Justin Sutton",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "53e48a6c-3669-4f20-ae43-896ac3174702",
+    "name": "Brandi Chatmon",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "92ae1fa5-ad7f-4342-b691-674c7c187d9e",
+    "name": "John Needham",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b50305c3-aee8-4ae1-a5cd-66ac175385f8",
+    "name": "Sarah Salah",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c60ec301-80f3-4147-9c0d-6dbeff7fa703",
+    "name": "Meishyanna Adams",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "76d05c13-2c6b-4d70-a6cb-e927a2f6603c",
+    "name": "Hanna Johnston",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5ed1ca42-d9f0-4afc-986f-e124cbc19fb3",
+    "name": "Mariah Stanley",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "0562d19f-3143-4d5a-bbba-476c8bea21fa",
+    "name": "Joshua Jaeger",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ff64fcd9-1361-4b88-9ea8-2ad8a0f9c010",
+    "name": "Jamaree Melvin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f20ad70b-41d1-4843-a1d5-aee31e15da3c",
+    "name": "Izabelle Poore",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "b87918cb-9046-4f7b-9ce2-f3d0e873f1d0",
+    "name": "Katrina Horton",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d20a1069-b3f8-4fb4-8c4f-7092173d43d4",
+    "name": "Brandon Simon",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "73605001-6a7a-404e-ac37-53bc5efff19d",
+    "name": "Dena Scavelli",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "90e16836-4cc7-4183-a220-b2d0c4d87501",
+    "name": "Tamie Arias",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f6458539-d8aa-4c76-8afc-0288a3d06ffc",
+    "name": "Philbert Fisher",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d6d5d230-4613-481e-a00f-2bc34fac25cd",
+    "name": "Riccardo Harris",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "fa765f2a-12a3-4ecf-8ad5-7544bf8412ed",
+    "name": "Kim Kemper",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "538018a4-a3f3-40ed-9ffb-04bb42c29728",
+    "name": "Marie Coberly",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "083ef674-534e-44c5-ad5f-21e43536e7f0",
+    "name": "Scott Suarez",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "90a88f97-b30d-4e45-bc05-36d3b86f10e0",
+    "name": "Haylie Diaz",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "07429a1c-ce47-475f-9d72-c09beabd3e14",
+    "name": "Penelope Graham",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "50773644-a2f7-4d3d-882e-cdd2009007a8",
+    "name": "James Henry",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "c0917b5e-78ac-46aa-b91f-7d7ae4e5874a",
+    "name": "Patricia Brown",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "341295e8-1772-4416-9e34-393e8a925652",
+    "name": "CasSondra Burch",
+    "before": {
+      "department": "Painesville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "287edcee-fb78-4ab0-8150-f8d7bd9e1d71",
+    "name": "Davon Petties",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "34535d58-f0d8-4189-8564-5b18b28c5df6",
+    "name": "Mia Novagradi",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f98e50e5-6a06-4f6b-b4cf-da9a3955ba92",
+    "name": "Aaron Cain",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7fbf2ee6-5104-4f4e-afa9-be851ea04ab4",
+    "name": "Tina Maguire",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "ff824439-921d-4002-8470-43c051d1c46a",
+    "name": "Ryan Shaffer",
+    "before": {
+      "jobTitle": null,
+      "department": "Marketing",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "e449108e-86f8-4133-b9c2-adea5602e265",
+    "name": "Kelly Langan",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "81d9f0fd-98e2-451b-a58b-bcffb81c1988",
+    "name": "Amaya Howard",
+    "before": {
+      "jobTitle": null,
+      "department": "Gordon Square",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "212a3437-e857-436b-bc8b-d7dc99be5433",
+    "name": "Alexandria Santiago",
+    "before": {
+      "jobTitle": null,
+      "department": "North Olmsted",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4b908fd5-04a9-49ee-b2a9-ec92d71a2915",
+    "name": "Ella Joy",
+    "before": {
+      "jobTitle": null,
+      "department": "Strongsville",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a8107b81-b9b2-4c11-ad50-ba75ef1deaac",
+    "name": "Robert Ervin",
+    "before": {
+      "jobTitle": null,
+      "department": "North Canton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7e8a4dfe-ef05-4f33-9845-60f6e6f9e8bc",
+    "name": "Yvonne Gatewood",
+    "before": {
+      "jobTitle": null,
+      "department": "Alliance",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "db766e64-c8f9-4706-91fc-2ed7a27f25a9",
+    "name": "Michael McLaughlin",
+    "before": {
+      "jobTitle": null,
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "36392ae4-475d-47ea-a661-cdfe5235f73e",
+    "name": "Sarah Gonzalez",
+    "before": {
+      "jobTitle": null,
+      "department": "Weirton",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "f10c5b82-afa8-472f-bc23-00b5a26a28b6",
+    "name": "Heidi Millard",
+    "before": {
+      "jobTitle": null,
+      "department": "Middleburg",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "10022101-f257-4bc2-b16c-a7e3fcaa260a",
+    "name": "Javion Montgomery",
+    "before": {
+      "jobTitle": null,
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6e9bc157-f744-46f4-8454-5013c2169e1d",
+    "name": "Dimitrios Ragousis",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "d1c5e4b5-7485-46f6-bb3b-d9df7e0e56dd",
+    "name": "Ahbay Mitchell",
+    "before": {
+      "jobTitle": null,
+      "department": "University Heights",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5e9cf904-0676-41ed-ad71-96fe9954baaa",
+    "name": "Sophia Kiggins",
+    "before": {
+      "jobTitle": null,
+      "department": "Mentor",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "2b55f056-540a-4200-9ca5-510f8ba7225a",
+    "name": "Adrienne Jackson",
+    "before": {
+      "jobTitle": null,
+      "department": "Willowick",
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a1fd993b-4853-4c83-a87b-924c9dd16472",
+    "name": "Amanda Shamblin",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "5af3edfb-cd41-420b-9300-0020f9353036",
+    "name": "Kassandra Santana",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "a7ae04ce-e26a-493a-998c-68abb154d129",
+    "name": "Alexis Troyer",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "dcbc006a-4caa-4d93-957c-41fc5eefa564",
+    "name": "Lexie Nicholson",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6c80e7ee-e5a9-4d82-a8ac-f207780b69b8",
+    "name": "Kay Mattice",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "96d83366-e236-48c6-8ba9-d4fb2d7e06d0",
+    "name": "Beth Richards",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "86e61511-6618-4d2e-bf0b-075bfbfab1dc",
+    "name": "Katherine Kent",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7cc6e188-2587-41fd-b95e-d7241c938136",
+    "name": "Alexandria Nathaniel",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "6adfc957-dfdb-4110-a2a5-89dc07404068",
+    "name": "Taylor Rivera",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "512aaa4f-f6fb-4328-90e7-dd57f751beb9",
+    "name": "Christopher Cavallaro",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "759acde5-ac3c-43e8-baeb-44b793577a5e",
+    "name": "Noelle Segal",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "40d5009e-6c97-4785-ae0a-16a8ec76afe5",
+    "name": "Joyce Simmons",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "7a810429-44fa-4d12-9749-b4a16f5a8496",
+    "name": "Christian Webb",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  },
+  {
+    "entra_id": "4afc7e47-279d-457f-a38b-31eaa0e22b9f",
+    "name": "Shane Locke",
+    "before": {
+      "jobTitle": null,
+      "department": null,
+      "officeLocation": null,
+      "managerId": null
+    }
+  }
+]

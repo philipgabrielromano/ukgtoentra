@@ -3,7 +3,8 @@ UKG Pro -> Entra ID HR-data sync - CLI entry point.
 
 Reads employees from UKG Pro and Microsoft Entra ID, matches them on First+Last
 name with secondary HR signals, then writes UKG's HR data
-(Job Title / Department / Location / Manager) into the matched Entra users.
+(Job Title / Location / Manager) into the matched Entra users.
+Department sync is disabled by default (re-enable via UKG_TO_ENTRA_MAP).
 
 UKG is the source of truth for HR data; Entra is never the source here and UKG is
 never written to (read-only). Identity/email is NOT synced by this tool.

@@ -69,9 +69,9 @@ def confirm_fuzzy_matches(results: list[MatchResult], entra_by_id: dict) -> int:
         print(f"  [{i:>3}] UKG: {r.ukg.first_name} {r.ukg.last_name:<18} "
               f"-> Entra: {r.entra.first_name} {r.entra.last_name}")
         print(f"        UPN: {r.entra.email}   name-score: {score}")
-        print(f"        will set: title={r.ukg.job_title!r} dept={r.ukg.department!r} "
-              f"loc={r.ukg.location!r}")
-        print(f"        Entra now: title={cur_title!r} dept={cur_dept!r}")
+        print(f"        will set: title={r.ukg.job_title!r} loc={r.ukg.location!r}")
+        print(f"        Entra now: title={cur_title!r} dept={cur_dept!r} "
+              f"(UKG dept: {r.ukg.department!r}, not synced)")
         print()
 
     print("-" * 72)

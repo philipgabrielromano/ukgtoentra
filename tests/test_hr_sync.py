@@ -31,7 +31,8 @@ def match(ukg, entra, decision="AUTO_APPLY"):
 def test_default_field_map():
     fields = load_field_map({})
     attrs = {f.graph_attr for f in fields}
-    assert attrs == {"jobTitle", "department", "officeLocation"}
+    # department is intentionally NOT synced by default
+    assert attrs == {"jobTitle", "officeLocation"}
 
 
 def test_diff_only_changed_attributes():
@@ -42,6 +43,24 @@ def test_diff_only_changed_attributes():
     ukg = U(1, "Ann", "Lee", job_title="Senior Analyst", department="Finance", location="Boston")
     changes = diff_attributes(ukg, entra, fields)
     assert changes == {"jobTitle": "Senior Analyst", "officeLocation": "Boston"}
+
+
+def test_department_not_synced_by_default():
+    fields = load_field_map({})
+    entra = E(1, "Ann", "Lee", "ann@corp.com", job_title="Analyst", department="Finance")
+    # UKG has a DIFFERENT department; it must NOT appear in the change set
+    ukg = U(1, "Ann", "Lee", job_title="Analyst", department="Engineering")
+    changes = diff_attributes(ukg, entra, fields)
+    assert changes == {}
+
+
+def test_department_can_be_reenabled_via_config():
+    fields = load_field_map({"UKG_TO_ENTRA_MAP":
+                             '{"jobTitle":"job_title","department":"department"}'})
+    entra = E(1, "Ann", "Lee", "ann@corp.com", job_title="Analyst", department="Finance")
+    ukg = U(1, "Ann", "Lee", job_title="Analyst", department="Engineering")
+    changes = diff_attributes(ukg, entra, fields)
+    assert changes == {"department": "Engineering"}
 
 
 def test_diff_never_blanks_existing():

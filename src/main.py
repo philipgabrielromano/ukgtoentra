@@ -48,20 +48,8 @@ REPORTS = ROOT / "reports"
 LOGS = ROOT / "logs"
 
 
-# .env is looked for in these locations; later files override earlier ones.
-# /etc/secrets/.env is where Render mounts a Secret File named ".env".
-ENV_FILE_LOCATIONS = (
-    ROOT / "config" / ".env",
-    ROOT / ".env",
-    Path("/etc/secrets/.env"),
-)
-
-
 def load_config() -> dict:
-    cfg: dict = {}
-    for env_file in ENV_FILE_LOCATIONS:
-        if env_file.is_file():
-            cfg.update(dotenv_values(env_file))
+    cfg = dict(dotenv_values(ROOT / "config" / ".env"))
     cfg.update({k: v for k, v in os.environ.items()
                 if k.startswith(("ENTRA_", "UKG_", "GRAPH_"))})
     return cfg

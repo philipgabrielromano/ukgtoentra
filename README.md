@@ -84,6 +84,10 @@ The run summary always shows the split, e.g.
 ## Setup
 
 1. `cp config/.env.example config/.env` and fill in credentials + field mapping.
+   The `.env` file may also live at the repo root or `/etc/secrets/.env` (the
+   latter is where Render mounts a Secret File named `.env`, so a Secret File
+   works with no extra configuration). Env vars prefixed `ENTRA_`/`UKG_`/`GRAPH_`
+   override values from any file.
 2. `pip install -r requirements.txt`
 3. **Plan (no writes):**
    ```
